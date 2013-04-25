@@ -1,0 +1,111 @@
+﻿<Categoria xmlns="http://schemas.datacontract.org/2004/07/Win8Catalogo.Catalogo.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Descricao>
+    1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
+  </Descricao>
+  <ID>1</ID>
+  <ImageUrl>Assets/games/Categoria/Categora1-teste..jpg</ImageUrl>
+  <Items>
+    <Item>
+      <Descricao>
+        História
+        
+        Criado pelo deus Amarun, o Amani travaram uma guerra prolongada com os devas (e seus Zuras deusa). Enfraquecido pelo conflito, Amarun foi morto por Tithus, o deus dos gigantes, ea Amani foram absorvidos e escravizado pelo império em expansão dos gigantes, que criou-los em cada vez melhores guerreiros.
+        Eventualmente libertados da escravidão pela intervenção dos deuses Kaia, Lok, ea ingenuidade do castanics , o Amani tinha aprendido o valor da cooperação. Eles vieram para a defesa dos Essenia durante a incursão dos altos elfos, e mais tarde se juntou ao jovem Federação Valkyon durante a guerra Argon, dedicando-se inteiramente com os princípios de unidade racial.
+       
+        Amani Hoje
+        
+        Com a sua liberdade duramente conquistada e compromisso com os valores consagrados na Federação Valkyon, é um bom momento para ser um aman. Embora eles ainda desconfiar dasBarakas para seus laços genéticos e histórico para os gigantes, eles percebem que esta nova ordem é o melhor, o único-caminho a seguir.
+        O famoso vigilância Amani ainda pode incendiar em fúria contra qualquer ameaça à liberdade deles ou de outra pessoa, e não há aliado mais firme e imparável na defesa da liberdade.
+      
+      </Descricao>
+      <ID>Cat1_1</ID>
+      <ImageUrl>Assets/games/intens/Amani_Trans.png</ImageUrl>
+      <Nome>Amani</Nome>
+      <SubTitulo>Raça Amani</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/</Uri>
+      <Valor>Cidade Capital: Kaiator</Valor>
+    </Item>
+    <Item>
+      <Descricao>
+        História
+        
+        Os gigantes usou seu grande poder para conquistar o mundo. O baraka clã, porém, foi o seu próprio caminho e trilhou um caminho mais pacífico na busca do conhecimento. Quando os deuses puniu os gigantes para as suas ambições com a aniquilação total do Day of Fire, que não poupou o baraka.Desde aquela época eles foram convidados bem-vindos nas terras de muitas outras raças. O Amani tradicionalmente mantinham distância do baraka por causa da história infeliz entre Amani e gigantes, mas com o novo espírito de amizade fomentada pela federação, mesmo aquelas velhas feridas começam a cicatrizar.
+        
+        Baraka Hoje
+        
+        Baraka estão na vanguarda das missões exploratórias da federação. Há grande necessidade de a Island of Dawn para a frente de argônio para o seu conhecimento enciclopédico da história do mundo e das culturas e sua propensão para a gravação de praticamente tudo, e como combatentes, Baraka também são inigualáveis.
+      </Descricao>
+      <ID>Cat1_2</ID>
+      <ImageUrl>Assets/games/intens/Baraka_Trans.png</ImageUrl>
+      <Nome>Baraka</Nome>
+      <SubTitulo>Raça Baraka</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Cidade Capital: Nunhum</Valor>
+    </Item>
+    <Item>
+      <Descricao>
+        História
+        
+        Os devas eram filhos de Zuras. Depois que ela foi selada por Tithus na guerra contra os gigantes, Balder ofereceu-lhes a Lok, um artesão do companheiro. Ele mudou seu nome, e que lhe serviu até sua queda. Desde aquela época, a castanics forjaram seu próprio destino, vivida por seu próprio código de honra escuro, e esculpido um lugar na história. Traído na criação de um artefato que causou a morte do amado deus Balder, a maioria dos castanics rejeitaram os deuses inteiramente, acreditando que eles não valer a pena o problema que eles causam, e que aqueles que dependem dos deuses são covardes demais para aproveitar o seu próprio destino . Alguns, no entanto, seduzido pelas promessas de poder de Lakan, seguiram o deus do mal em Northern Arun, com a intenção de reviver o antigo nome e sangrenta: devas.
+       
+        Castanics hoje
+       
+        Já conhecida como uma raça de temperamento ardente, castanics ter encontrado um nicho desconfortável na Federação Valkyon. As decisões do Conselho contra os seus desejos frequentemente encontrar facções castanic agindo por conta própria. Eles levam o que podem, mas eles nunca roubar, e eles olham para o outro.
+        Castanics da Federação estão dispostos a trabalhar juntos para o bem comum, mas apenas na medida do bem comum não leva muito tempo ou vir a um preço muito alto. Eles estão perfeitamente dispostos e capazes de seguir seu próprio caminho, se necessário.
+      </Descricao>
+      <ID>Cat1_3</ID>
+      <ImageUrl>Assets/games/intens/Castanic_Trans.png</ImageUrl>
+        <Nome>Castanic</Nome>
+      <SubTitulo>Raça Castanic</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Cidade Capital: Castanica</Valor>
+    </Item>
+    
+    <Item>
+      <Descricao>
+        História
+        
+        Construir formas corporais em torno de pequenos fragmentos de seu próprio ser divino, a deusa Elinu criou os Elins. Sua aparência física reflete a filha mais nova do desejo ingênuo de Arun para a beleza e paz. Um Elin rainha governa tanto os Elins e poporis , com quem eles compartilham uma história e uma missão. A rainha e suas forças têm provado a sua sabedoria e habilidade diplomática em paz, e suas proezas tático e combate na guerra.
+        
+        Elins Hoje
+        
+        Ambos os Elins e poporis defender a causa da natureza, mas a ligação entre eles é mais profundo do que isso. Como uma única nação que reparar, proteger e preservar o mundo em que vivem e amam acima de tudo. O Popori Nation foi um dos primeiros a aderir à federação. Reconhecendo a invasão Argon a ser uma ameaça para toda a natureza, o Elin rainha prontamente reuniu todas as suas forças, Popori e Elin, para a causa.
+      </Descricao>
+      <ID>Cat1_4</ID>
+      <ImageUrl>Assets/games/intens/Elin_Trans.png</ImageUrl>
+      <Nome>Elin</Nome>
+      <SubTitulo>Raça Elin</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Cidade Capital: Pora Elinu</Valor>
+    </Item>
+    
+    <Item>
+      <Descricao>
+        História
+        
+        Cem anos atrás, os elfos invadiram o território humano de Essenia . O Amani , poporis e Baraka ficou com os seres humanos, e quebrou a ofensiva élfico.
+        Fazia três mil anos desde que os elfos haviam perdido uma guerra. Esta derrota reverberou através da cultura élfica de uma maneira de trinta séculos de vitórias não tinha. Eles formaram uma nova estratégia: acomodar as mudanças varrendo o mundo, e abraçar a Federação Valkyon.
+        
+        High Elves hoje
+        
+        Hoje, as outras raças ver com elfos cauteloso otimismo dentro da memória viva que estavam em guerra com quase todo mundo, mas seu compromisso com a federação é sincero e real. Agora é o núcleo de suas próprias vidas e sua cultura ancestral. Cada elfo deve representar toda a raça em sua nova filosofia de "para a frente, juntos e fortes."
+      </Descricao>
+      <ID>Cat1_5</ID>
+      <ImageUrl>Assets/games/intens/Elf_Trans.png</ImageUrl>
+      <Nome>High Elf</Nome>
+      <SubTitulo>Raça High Elf</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Cidade Capital: Allemantheia</Valor>
+    </Item>
+  
+  
+  
+  
+  
+  
+  
+  
+  </Items>
+  <Nome>Raças</Nome>
+  <SubTitulo></SubTitulo>
+</Categoria>

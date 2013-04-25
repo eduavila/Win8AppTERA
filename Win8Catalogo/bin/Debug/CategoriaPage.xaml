@@ -1,0 +1,174 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="Win8Catalogo.CategoriaPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Win8Catalogo"
+    xmlns:data="using:Win8Catalogo.Data"
+    xmlns:common="using:Win8Catalogo.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:utils="using:Win8Catalogo.Catalogo.Utils"
+    mc:Ignorable="d">
+
+
+    <Page.TopAppBar>
+        <AppBar x:Name="TopApp" Padding="10,0,10,0" MinHeight="110" Background="#D1000000" BorderBrush="#D1000000">
+            <Grid Height="100" Margin="40,0">
+                <StackPanel Margin="0" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <Button x:ConnectionId='1' x:Name="btnHome" HorizontalAlignment="Right" BorderBrush="{x:Null}" BorderThickness="0" FontWeight="Normal" VerticalAlignment="Stretch" Padding="0" Style="{StaticResource TopAppbarBtnStyle}"                       >
+                        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="92" Margin="0" Width="92">
+                            <Image HorizontalAlignment="Center" VerticalAlignment="Center" Source="Assets/AppBarBtn/HomeappbarBtn.png" Width="92" Margin="0" Height="92"/>
+                        </Grid>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.TopAppBar>
+
+    <Page.Resources>
+
+        <!-- Collection of items displayed by this page -->
+        <CollectionViewSource
+            x:Name="itemsViewSource"
+            Source="{Binding Items}"
+            d:Source="{Binding AllGroups[0].Items, Source={d:DesignInstance Type=data:SampleDataSource, IsDesignTimeCreatable=True}}"/>
+
+        <utils:StringToImageConverter x:Key="StringToImageConverter"/>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid
+        Style="{StaticResource LayoutRootStyle}"
+        DataContext="{Binding Group}"
+        d:DataContext="{Binding AllGroups[0], Source={d:DesignInstance Type=data:SampleDataSource, IsDesignTimeCreatable=True}}" Background="#FF3E4849">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Horizontal scrolling grid used in most view states -->
+        <GridView x:ConnectionId='2'
+            x:Name="itemGridView"
+            AutomationProperties.AutomationId="ItemGridView"
+            AutomationProperties.Name="Items In Group"
+            TabIndex="1"
+            Padding="116,0,120,50"
+            ItemsSource="{Binding Source={StaticResource itemsViewSource}}"
+            ItemTemplate="{StaticResource GroupItemTemplate}"
+            SelectionMode="None"
+            IsSwipeEnabled="false"
+            IsItemClickEnabled="True"
+                                           Grid.Row="1">
+
+            <GridView.Header>
+                <StackPanel Width="480" Margin="0,4,14,0" Visibility="Visible">
+                    <Image Source="{Binding ImageUrl}" Height="400" Margin="0,0,18,20" Stretch="Fill" AutomationProperties.Name="{Binding Nome}"/>
+                    <TextBlock Text="{Binding Descricao}" Margin="0,0,18,0" Style="{StaticResource BodyTextStyle}"/>
+                </StackPanel>
+            </GridView.Header>
+            <GridView.ItemContainerStyle>
+                <Style TargetType="FrameworkElement">
+                    <Setter Property="Margin" Value="0,0,5,50"/>
+                </Style>
+            </GridView.ItemContainerStyle>
+        </GridView>
+
+        <!-- Vertical scrolling list only used when snapped -->
+        <ListView x:ConnectionId='3'
+            x:Name="itemListView"
+            AutomationProperties.AutomationId="ItemListView"
+            AutomationProperties.Name="Items In Group"
+            TabIndex="1"
+            Grid.Row="1"
+            Visibility="Collapsed"
+            Padding="10,0,0,60"
+            ItemsSource="{Binding Source={StaticResource itemsViewSource}}"
+            ItemTemplate="{StaticResource Standard80ItemTemplate}"
+            SelectionMode="None"
+            IsSwipeEnabled="false"
+            IsItemClickEnabled="True"
+                                          >
+
+            <ListView.Header>
+                <StackPanel x:Name="stackPanel">
+                    <Image Source="{Binding ImageUrl}" Margin="10,0,18,0" MaxHeight="160" Stretch="Fill" AutomationProperties.Name="{Binding Nome}"/>
+                    <TextBlock Margin="10,20,18,30" Text="{Binding Descricao}" Style="{StaticResource BodyTextStyle}"/>
+                </StackPanel>
+            </ListView.Header>
+        </ListView>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:ConnectionId='4' x:Name="backButton"                IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource GroupDetailBkButtonStyle}"/>
+            <StackPanel Grid.Column="1" Margin="0,0,0,15" Orientation="Vertical" VerticalAlignment="Bottom">
+                <TextBlock x:Name="pageTitle" Text="{Binding Nome}" Style="{StaticResource PageHeaderTextStyle}" IsHitTestVisible="false" Margin="0,0,0,13"  VerticalAlignment="Top"/>
+                <TextBlock x:Name="pageSubtitle" TextWrapping="Wrap" Text="{Binding SubTitulo}" FontFamily="Segoe UI" LineStackingStrategy="BlockLineHeight"  Style="{StaticResource GroupHeaderTextStyle}"/>
+            </StackPanel>
+        </Grid>
+
+        <VisualStateManager.VisualStateGroups>
+
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="itemGridView" Storyboard.TargetProperty="Padding">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="96,0,90,0"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!--
+                    The back button and title have different styles when snapped, and the list representation is substituted
+                    for the grid displayed in all other view states
+                -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+
+                        <!--GroupHeaderTextStyle-->
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="itemGridView" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="itemListView" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <!--<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="stackPanel">
+                        	<DiscreteObjectKeyFrame KeyTime="0">
+                        		<DiscreteObjectKeyFrame.Value>
+                        			<Visibility>Collapsed</Visibility>
+                        		</DiscreteObjectKeyFrame.Value>
+                        	</DiscreteObjectKeyFrame>
+                        </ObjectAnimationUsingKeyFrames>-->
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</common:LayoutAwarePage>
+

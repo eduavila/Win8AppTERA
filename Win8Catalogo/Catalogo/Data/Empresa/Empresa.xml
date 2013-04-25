@@ -1,0 +1,43 @@
+﻿<Empresa xmlns="http://schemas.datacontract.org/2004/07/Win8Catalogo.Catalogo.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Endereco>s</Endereco>
+  <ImageUrl>Assets/games/principal/automodelo-empresa.jpg</ImageUrl>
+  <LiveTileBig1>Assets/BigLiveTile1.jpg</LiveTileBig1>
+  <LiveTileBig2>Assets/BigLiveTile2.jpg</LiveTileBig2>
+  <LiveTileSmall1>Assets/SmallLiveTile1.jpg</LiveTileSmall1>
+  <LiveTileSmall2>Assets/SmallLiveTile2.jpg</LiveTileSmall2>
+  <Nome>Guia TERA Online </Nome>
+  <RazaoSocial></RazaoSocial>
+  <SettingsContato>
+      Desenvolvido por Eduardo Avila.
+      
+      Este Aplicativo e uma pequena guia dos personagens e classe do Jogo de MMO Tera-Online.
+      
+      Suporte: edu.avila2@gmail.com.
+  </SettingsContato>
+  <SettingsPolitica>
+    O aplicativo de Guia Tera, não faz uso de internet para apresentar qualquer conteúdo, não compartilhamos suas informações.
+    O aplicativo faz uso das funcionalidades de compartilhamento (Share) do Windows 8, assim como a funcionalidade de busca (Search) também do Windows 8.
+  </SettingsPolitica>
+  <SettingsSobre>
+   Essa App e uma pequena guia para quem esta jogando ou quem interessa na história de cada personagem do jogo TERA:RISING.
+  </SettingsSobre>  
+  <ShareTexto>
+   TERA:Rising é um jogo de MMO onde seu diferenciado dos outro MMO é a jogabilidade podendo controlar por joystick ou por teclado e mouse em um jogo de ação de belos gráficos mas também um mundo fantástico mundo com milhares de missões. Podendo escolhe entre sete personagens diferente e oito classes. E muitas Batalhas épicas.
+Explore um mundo cheio de recursos visuais de tirar o fôlego alimentado por Unreal Engine 3.
+   
+    #URL#
+  </ShareTexto>
+  <Sobre>Este Aplicativo e uma pequena guia para quem esta jogando ou quem interessa na história de cada personagem do jogo TERA:RISING.
+  
+TERA:Rising é um jogo de MMO onde seu diferenciado dos outro MMO é a jogabilidade podendo controlar por joystick ou por teclado e mouse em um jogo de ação de belos gráficos mas também um mundo fantástico mundo com milhares de missões. Podendo escolhe entre sete personagens diferente e oito classes. E muitas Batalhas épicas.
+Explore um mundo cheio de recursos visuais de tirar o fôlego alimentado por Unreal Engine 3.
+</Sobre>
+  <Telefones>
+    <Telefone>
+      <Numero>(11) 99999-99999</Numero>
+      <Tipo>Comercial</Tipo>
+    </Telefone>
+  </Telefones>
+  <Website>http://www.tera-online.com</Website>
+  
+</Empresa>

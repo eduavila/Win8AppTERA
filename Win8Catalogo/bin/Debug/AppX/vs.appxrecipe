@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NOT-EDUARDO</Machine>
+    <WindowsUser>Eduardo</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>8F2DCC9A4207AF7A592F5F2DC39ABA98E25F65F211F5C956F48651EC78AF91C0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>25296EduardoAvila.GuiaTeraOnline_1.0.0.2_neutral__6kr1w039c9ffc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>25296EduardoAvila.GuiaTeraOnline_6kr1w039c9ffc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>25296EduardoAvila.GuiaTeraOnline</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=95A53105-65DC-4423-BDAE-91160F4E2AF6</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T21:50:50.018</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.exe">
+      <PackagePath>Win8Catalogo.exe</PackagePath>
+      <Modified>2013-04-25T21:50:49.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.pdb">
+      <PackagePath>Win8Catalogo.pdb</PackagePath>
+      <Modified>2013-04-25T21:50:49.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\30pxLogo.png">
+      <PackagePath>Assets\30pxLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T15:21:34.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\50pxLogo.png">
+      <PackagePath>Assets\50pxLogo.png</PackagePath>
+      <Modified>2013-04-25T15:21:34.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\AppBarBtn\HomeappbarBtn.png">
+      <PackagePath>Assets\AppBarBtn\HomeappbarBtn.png</PackagePath>
+      <Modified>2013-04-25T15:21:34.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-04-25T15:21:34.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Amani_Trans.png">
+      <PackagePath>Assets\games\intens\Amani_Trans.png</PackagePath>
+      <Modified>2013-04-25T21:50:33.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Baraka_Trans.png">
+      <PackagePath>Assets\games\intens\Baraka_Trans.png</PackagePath>
+      <Modified>2013-04-25T21:50:29.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Castanic_Trans.png">
+      <PackagePath>Assets\games\intens\Castanic_Trans.png</PackagePath>
+      <Modified>2013-04-25T21:50:13.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Elf_Trans.png">
+      <PackagePath>Assets\games\intens\Elf_Trans.png</PackagePath>
+      <Modified>2013-04-25T21:50:17.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Elin_Trans.png">
+      <PackagePath>Assets\games\intens\Elin_Trans.png</PackagePath>
+      <Modified>2013-04-25T21:50:24.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-04-25T15:21:34.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2013-04-25T15:21:34.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Logo_old.png">
+      <PackagePath>Assets\Logo_old.png</PackagePath>
+      <Modified>2013-04-25T15:21:34.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-04-25T15:21:34.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T15:21:34.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T15:21:34.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T15:21:34.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\wallpaper-1967243.png">
+      <PackagePath>Assets\wallpaper-1967243.png</PackagePath>
+      <Modified>2013-04-25T16:38:28.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T15:21:34.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\automodelo-empresa.jpg">
+      <PackagePath>Assets\automodelo-empresa.jpg</PackagePath>
+      <Modified>2013-04-25T16:38:28.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\BigLiveTile1.jpg">
+      <PackagePath>Assets\BigLiveTile1.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:34.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\BigLiveTile2.jpg">
+      <PackagePath>Assets\BigLiveTile2.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:34.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Categoria\Categoria1.jpg">
+      <PackagePath>Assets\Categoria\Categoria1.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:34.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Categoria\Categoria2.jpg">
+      <PackagePath>Assets\Categoria\Categoria2.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:34.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Empresa\automodelo-empresa.jpg">
+      <PackagePath>Assets\Empresa\automodelo-empresa.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Empresa\Empresa.jpg">
+      <PackagePath>Assets\Empresa\Empresa.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\Categora1-teste..jpg">
+      <PackagePath>Assets\games\Categoria\Categora1-teste..jpg</PackagePath>
+      <Modified>2013-04-25T20:40:58.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\Categoria1.jpg">
+      <PackagePath>Assets\games\Categoria\Categoria1.jpg</PackagePath>
+      <Modified>2013-04-25T20:38:41.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\principal\automodelo-empresa.jpg">
+      <PackagePath>Assets\games\principal\automodelo-empresa.jpg</PackagePath>
+      <Modified>2013-04-25T17:25:07.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\Item1.jpg">
+      <PackagePath>Assets\Items\Categoria1\Item1.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\item2.jpg">
+      <PackagePath>Assets\Items\Categoria1\item2.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\item3.jpg">
+      <PackagePath>Assets\Items\Categoria1\item3.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\item4.jpg">
+      <PackagePath>Assets\Items\Categoria1\item4.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\item5.jpg">
+      <PackagePath>Assets\Items\Categoria1\item5.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria2\Item1.jpg">
+      <PackagePath>Assets\Items\Categoria2\Item1.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria2\item2.jpg">
+      <PackagePath>Assets\Items\Categoria2\item2.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria2\item3.jpg">
+      <PackagePath>Assets\Items\Categoria2\item3.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria2\item4.jpg">
+      <PackagePath>Assets\Items\Categoria2\item4.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:35.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SmallLiveTile1.jpg">
+      <PackagePath>Assets\SmallLiveTile1.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:34.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SmallLiveTile2.jpg">
+      <PackagePath>Assets\SmallLiveTile2.jpg</PackagePath>
+      <Modified>2013-04-25T15:21:34.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-25T15:21:39.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Categorias\categoria_1.xml">
+      <PackagePath>Catalogo\Data\Categorias\categoria_1.xml</PackagePath>
+      <Modified>2013-04-25T21:42:50.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Categorias\categoria_2.xml">
+      <PackagePath>Catalogo\Data\Categorias\categoria_2.xml</PackagePath>
+      <Modified>2013-04-25T20:43:32.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Empresa\Empresa.xml">
+      <PackagePath>Catalogo\Data\Empresa\Empresa.xml</PackagePath>
+      <Modified>2013-04-25T17:57:56.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-25T15:21:33.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\CategoriaPage.xaml">
+      <PackagePath>CategoriaPage.xaml</PackagePath>
+      <Modified>2013-04-25T21:48:23.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\HomePage.xaml">
+      <PackagePath>HomePage.xaml</PackagePath>
+      <Modified>2013-04-25T17:27:27.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\ItemPage.xaml">
+      <PackagePath>ItemPage.xaml</PackagePath>
+      <Modified>2013-04-25T20:52:41.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\ResultadoBusca.xaml">
+      <PackagePath>ResultadoBusca.xaml</PackagePath>
+      <Modified>2013-04-25T20:43:33.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\SettingsFlyouts\AboutUs.xaml">
+      <PackagePath>SettingsFlyouts\AboutUs.xaml</PackagePath>
+      <Modified>2013-04-25T15:21:41.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\SettingsFlyouts\ContactUs.xaml">
+      <PackagePath>SettingsFlyouts\ContactUs.xaml</PackagePath>
+      <Modified>2013-04-25T15:21:41.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\SettingsFlyouts\PrivacyPolicy.xaml">
+      <PackagePath>SettingsFlyouts\PrivacyPolicy.xaml</PackagePath>
+      <Modified>2013-04-25T15:21:41.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-04-25T21:46:17.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-25T21:50:49.845</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

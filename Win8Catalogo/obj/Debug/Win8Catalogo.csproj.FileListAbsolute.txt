@@ -1,0 +1,135 @@
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\App.g.i.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\App.g.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\CategoriaPage.g.i.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\CategoriaPage.g.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\HomePage.g.i.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\HomePage.g.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\ItemPage.g.i.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\ItemPage.g.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\ResultadoBusca.g.i.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\ResultadoBusca.g.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\AboutUs.g.i.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\AboutUs.g.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\ContactUs.g.i.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\ContactUs.g.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.i.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\App.xaml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\CategoriaPage.xaml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\HomePage.xaml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\ItemPage.xaml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\ResultadoBusca.xaml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\AboutUs.xaml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\ContactUs.xaml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\Common\StandardStyles.xaml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.exe
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.pdb
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\bin\Debug\resources.pri
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\bin\Debug\AppxManifest.xml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.build.appxrecipe
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\Win8Catalogo.exe
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\Win8Catalogo.pdb
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\priconfig.xml
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\layout.resfiles
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\resources.resfiles
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\LanguageQualifiers.txt
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\ProjectArchitectures.txt
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\priconfig.xml.intermediate
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\layout.resfiles.intermediate
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\resources.resfiles.intermediate
+C:\Users\visouza\Projetos\AppDay\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles.intermediate
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.exe
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.pdb
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\bin\Debug\resources.pri
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\bin\Debug\AppxManifest.xml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.build.appxrecipe
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\App.g.i.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\App.g.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\CategoriaPage.g.i.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\CategoriaPage.g.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\HomePage.g.i.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\HomePage.g.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\ItemPage.g.i.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\ItemPage.g.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\ResultadoBusca.g.i.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\ResultadoBusca.g.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\AboutUs.g.i.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\AboutUs.g.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\ContactUs.g.i.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\ContactUs.g.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.i.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\App.xaml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\CategoriaPage.xaml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\HomePage.xaml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\ItemPage.xaml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\ResultadoBusca.xaml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\AboutUs.xaml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\ContactUs.xaml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\Common\StandardStyles.xaml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\Win8Catalogo.exe
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\Win8Catalogo.pdb
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\priconfig.xml.intermediate
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\layout.resfiles.intermediate
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\resources.resfiles.intermediate
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles.intermediate
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\priconfig.xml
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\layout.resfiles
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\resources.resfiles
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\LanguageQualifiers.txt
+C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\ProjectArchitectures.txt
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.exe
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.pdb
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\resources.pri
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppxManifest.xml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.build.appxrecipe
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\App.g.i.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\App.g.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\CategoriaPage.g.i.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\CategoriaPage.g.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\HomePage.g.i.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\HomePage.g.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\ItemPage.g.i.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\ItemPage.g.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\ResultadoBusca.g.i.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\ResultadoBusca.g.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\AboutUs.g.i.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\AboutUs.g.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\ContactUs.g.i.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\ContactUs.g.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.i.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\App.xaml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\CategoriaPage.xaml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\HomePage.xaml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\ItemPage.xaml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\ResultadoBusca.xaml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\AboutUs.xaml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\ContactUs.xaml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\Win8Catalogo.exe
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\Win8Catalogo.pdb
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\priconfig.xml
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\layout.resfiles
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\resources.resfiles
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\LanguageQualifiers.txt
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\ProjectArchitectures.txt
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\priconfig.xml.intermediate
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\layout.resfiles.intermediate
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\resources.resfiles.intermediate
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles.intermediate

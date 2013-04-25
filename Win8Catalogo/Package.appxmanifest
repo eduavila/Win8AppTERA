@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="25296EduardoAvila.GuiaTeraOnline" Publisher="CN=95A53105-65DC-4423-BDAE-91160F4E2AF6" Version="1.0.0.2" />
+  <Properties>
+    <DisplayName>Guia Tera Online</DisplayName>
+    <PublisherDisplayName>Eduardo Avila</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Win8Catalogo.App">
+      <VisualElements DisplayName="GuiaTeraOnline" Logo="Assets\SmallLogo.png" SmallLogo="Assets\30pxLogo.png" Description="GuiaTeraOnline" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\WideLogo.png" ShortName="Win8Catalogo" />
+        <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#3e4849" />
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.search" />
+      </Extensions>
+    </Application>
+  </Applications>
+</Package>
