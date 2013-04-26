@@ -5,7 +5,7 @@
     <WindowsUser>Eduardo</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>8F2DCC9A4207AF7A592F5F2DC39ABA98E25F65F211F5C956F48651EC78AF91C0</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>85C6D99B8AF2966ED782F00AFEC456349E114B59089046BB97EB782A10E468A8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>25296EduardoAvila.GuiaTeraOnline_1.0.0.2_neutral__6kr1w039c9ffc</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>25296EduardoAvila.GuiaTeraOnline_6kr1w039c9ffc!App</RegisteredUserModeAppID>
     <RegisteredPackageID>25296EduardoAvila.GuiaTeraOnline</RegisteredPackageID>
@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-25T21:50:50.018</Modified>
+      <Modified>2013-04-26T03:11:30.602</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.exe">
-      <PackagePath>Win8Catalogo.exe</PackagePath>
-      <Modified>2013-04-25T21:50:49.461</Modified>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppGuiaTera.exe">
+      <PackagePath>AppGuiaTera.exe</PackagePath>
+      <Modified>2013-04-26T03:11:28.245</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.pdb">
-      <PackagePath>Win8Catalogo.pdb</PackagePath>
-      <Modified>2013-04-25T21:50:49.423</Modified>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppGuiaTera.pdb">
+      <PackagePath>AppGuiaTera.pdb</PackagePath>
+      <Modified>2013-04-26T03:11:28.208</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\30pxLogo.png">
       <PackagePath>Assets\30pxLogo.png</PackagePath>
@@ -44,6 +44,38 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\DarkGray.png">
       <PackagePath>Assets\DarkGray.png</PackagePath>
       <Modified>2013-04-25T15:21:34.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Archer_Trans.png">
+      <PackagePath>Assets\games\Classes\Archer_Trans.png</PackagePath>
+      <Modified>2013-04-26T01:37:50.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Berserker_Trans.png">
+      <PackagePath>Assets\games\Classes\Berserker_Trans.png</PackagePath>
+      <Modified>2013-04-26T02:32:06.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Lancer_Trans.png">
+      <PackagePath>Assets\games\Classes\Lancer_Trans.png</PackagePath>
+      <Modified>2013-04-26T02:33:33.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Mystic_Trans.png">
+      <PackagePath>Assets\games\Classes\Mystic_Trans.png</PackagePath>
+      <Modified>2013-04-26T02:34:59.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Priest_Trans.png">
+      <PackagePath>Assets\games\Classes\Priest_Trans.png</PackagePath>
+      <Modified>2013-04-26T02:36:50.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Slayer_Trans.png">
+      <PackagePath>Assets\games\Classes\Slayer_Trans.png</PackagePath>
+      <Modified>2013-04-26T02:37:34.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Sorcerer_Trans.png">
+      <PackagePath>Assets\games\Classes\Sorcerer_Trans.png</PackagePath>
+      <Modified>2013-04-26T02:38:35.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Warrior_Trans.png">
+      <PackagePath>Assets\games\Classes\Warrior_Trans.png</PackagePath>
+      <Modified>2013-04-26T03:25:53.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Amani_Trans.png">
       <PackagePath>Assets\games\intens\Amani_Trans.png</PackagePath>
@@ -64,6 +96,14 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Elin_Trans.png">
       <PackagePath>Assets\games\intens\Elin_Trans.png</PackagePath>
       <Modified>2013-04-25T21:50:24.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Human_Trans.png">
+      <PackagePath>Assets\games\intens\Human_Trans.png</PackagePath>
+      <Modified>2013-04-25T22:02:14.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Popori_Trans.png">
+      <PackagePath>Assets\games\intens\Popori_Trans.png</PackagePath>
+      <Modified>2013-04-25T22:02:41.630</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
@@ -189,21 +229,25 @@
       <PackagePath>Assets\SmallLiveTile2.jpg</PackagePath>
       <Modified>2013-04-25T15:21:34.640</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Common\ReadMe.txt">
-      <PackagePath>Common\ReadMe.txt</PackagePath>
-      <Modified>2013-04-25T15:21:39.437</Modified>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Categorias\categoria_3.xml">
+      <PackagePath>Catalogo\Data\Categorias\categoria_3.xml</PackagePath>
+      <Modified>2013-04-26T03:36:43.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Categorias\categoria_1.xml">
       <PackagePath>Catalogo\Data\Categorias\categoria_1.xml</PackagePath>
-      <Modified>2013-04-25T21:42:50.085</Modified>
+      <Modified>2013-04-25T22:06:25.347</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Categorias\categoria_2.xml">
       <PackagePath>Catalogo\Data\Categorias\categoria_2.xml</PackagePath>
-      <Modified>2013-04-25T20:43:32.717</Modified>
+      <Modified>2013-04-26T03:12:38.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Empresa\Empresa.xml">
       <PackagePath>Catalogo\Data\Empresa\Empresa.xml</PackagePath>
       <Modified>2013-04-25T17:57:56.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-25T15:21:39.437</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
@@ -243,7 +287,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-04-25T21:50:49.845</Modified>
+      <Modified>2013-04-26T03:11:28.955</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

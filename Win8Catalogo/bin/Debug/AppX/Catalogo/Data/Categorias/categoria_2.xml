@@ -7,60 +7,164 @@
   <Items>
     <Item>
       <Descricao>
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
+        Archer
+        
+        Arqueiros aventureiros usar arcos notáveis. Em vez de uma corda de tripa e couro, suas cordas de arco são de energia arcana. No lugar de flechas de madeira, que dispara flechas de pura força de vontade. Flechas de um arqueiro facilmente perfurar armadura do inimigo, consome os inimigos em energia de fogo, e prendê-los para que eles não podem sequer fugir! Archers lidar morte de longe.Eles se destacam em disparar de fora do alcance retaliação de um inimigo, e usando a sua fuga se move para ficar lá. Eles podem tomar o terreno elevado para uma melhor visão da batalha global, apanhar os inimigos que fogem para ajudar, e tratar o dano sem puxar aggro dos tanques.
+        
+        Visão geral Skills
+        
+        Habilidades de arqueiro são na sua maioria os ataques de seta (que é o que eles fazem, afinal de contas). Mas à medida que avançam na habilidade, eles aprendem a variar suas flechas para, armadilha, stun, e apanhar lotes inteiros de alvos escolhidos. Eles também aprendem a atacar com o arco, lidando fechar-quartos danos, enquanto o arqueiro pula de volta para fora do caminho do mal.
+        Arqueiros também têm habilidades de escape para evitar tomar dano, e uma série de armadilhas que imobilizam, veneno, ou simplesmente explodir seus inimigos. Inimigos muitas vezes apressar lutadores à distância. Tendo armadilhas castiga-los para tais táticas sem imaginação. Há uma seta web para capturar e imobilizar inimigos que tentam fugir ou correr para ajudar mesmo.
       </Descricao>
       <ID>Cat2_1</ID>
-      <ImageUrl>Assets/Items/Categoria2/Item1.jpg</ImageUrl>
-      <Nome>Item 1</Nome>
-      <SubTitulo>1:10 - Team Losi</SubTitulo>
-      <Uri>http://pt.wikipedia.org/wiki/Automodelismo</Uri>
-      <Valor>1500,00</Valor>
+      <ImageUrl>Assets/games/Classes/Archer_Trans.png</ImageUrl>
+      <Nome>Archer</Nome>
+      <SubTitulo>Classe Archer (Arqueiro)</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes </Uri>
+        <Valor>Arqueiro</Valor>
     </Item>
     <Item>
       <Descricao>
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
+        Berserker
+
+        O Berserker é um rolo compressor ofensiva que sacode a terra com cada golpe e envia oponentes voando com cada balanço enorme, com capacidades defensivas melhor do que a média, que incluem uma armadura pesada e um bloco de machado que absorve o dano de acordo com a qualidade do machado.
+        Berserkers tem várias maneiras de recarregar o seu próprio mana, e pode absorver o dano causado a um inimigo como a saúde. Sua raiva e sede de sangue aumentar a sua força para ajudar a acabar com a luta rapidamente. Eles se defenderem sozinhos melhor do que muitas aulas, e sua capacidade de pura destruição dá-lhes um lugar de honra em qualquer grupo.
+
+        Visão geral Skills
+
+        O conjunto de habilidades Berserker é longo no ataque, incluindo poderosos overhand golpes, girando ataques circulares, e-inimigo deslumbrantes greves Groundshaker. Assorted grita lustre o Berserker e desmoralizar os inimigos. Um devastador de quatro partes de combinação estabelece a presença do Berserker no campo de batalha, e constrói o mana necessário para movimentos mais avançados.
+        Embora a maioria das habilidades berserker são strikes, muitos são eficazes contra vários inimigos.Seu arsenal inclui também muitas habilidades úteis de auto-atendimento solando.
       </Descricao>
       <ID>Cat2_2</ID>
-      <ImageUrl>Assets/Items/Categoria2/Item2.jpg</ImageUrl>
-      <Nome>Item 2</Nome>
-      <SubTitulo>1:8 - Kyosho</SubTitulo>
-      <Uri>http://pt.wikipedia.org/wiki/Automodelismo</Uri>
-      <Valor>900,00</Valor>
+      <ImageUrl>Assets/games/Classes/Berserker_Trans.png</ImageUrl>
+      <Nome>Berserker</Nome>
+      <SubTitulo>Classe Berserker</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Berserker</Valor>
     </Item>
     <Item>
       <Descricao>
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
+        Lancer
+
+        Tão poderoso na defesa como no ataque, o papel do lancer em uma luta está na frente da formação. Seu escudo pesado absorve dano, enquanto o seu lance fornece energia impressionante que seja alvo, mas eficaz contra vários inimigos. Várias habilidades para aggro desenho deixar o lancer tomar o calor e dar membros do seu partido mais oportunidades. Lancers pode minimizar os danos ao seu próprio partido e ajudá-los a devastar o inimigo.
+        
+        Visão geral Skills
+       
+        Há pouca sutileza para o ataque do lancer, mas existe muscular suficiente para bater adversários no chão e poder suficiente para limpar uma zona de defesa para companheiros de batalha. Blocos escudo reduzir os danos para o lancer e companheiros próximos, criando uma economia de recursos de apoio, como a cura. Habilidades Lancer incluem golpes de lança e encargos, escudo, festanças armadura-enfraquecimento e ataques de retaliação. Acumular poder de combate com seu ataque básico, em seguida, usá-lo para alimentar assaltos ainda mais eficazes.
+        Lanceiros são mais valiosos em um papel de tancagem, mas ao contrário de outros tanques que podem fornecer uma zona de dano diminuída para companheiros que precisam de um respiro entre cura ou um lugar seguro a partir do qual a lançar ou atirar.
+        Armadura pesada lanceiros "e os danos de bloqueio de escudo de defesa significa menos trabalho para curandeiros e mais proteção para as classes mais vulneráveis. Festanças protetor impressionante tornar inimigos mais fáceis de dano, enquanto ele atrai o oponente longe de outros jogadores, fazendo com que o lancer um dos principais contribuintes para o jogo de grupo, e uma adição bem-vinda a qualquer grupo de luta.
+
       </Descricao>
       <ID>Cat2_3</ID>
-      <ImageUrl>Assets/Items/Categoria2/Item3.jpg</ImageUrl>
-      <Nome>Item 3</Nome>
-      <SubTitulo>1:10 - Losi - RTR</SubTitulo>
-      <Uri>http://pt.wikipedia.org/wiki/Automodelismo</Uri>
-      <Valor>120,00</Valor>
+      <ImageUrl>Assets/games/Classes/Lancer_Trans.png</ImageUrl>
+      <Nome>Lancer</Nome>
+      <SubTitulo>Classe Lancer</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Lancer</Valor>
     </Item>
     <Item>
       <Descricao>
-        Maior. Mais rápido. Mais alto. O novo do Slayer Pro 4X4 ™ oferece o som gritando e impulso balística que anseia cada motorista nitro. Agora, com uma pegada 10% maior, novas do Slayer Pro 4x4 chassis maior distância entre eixos e postura faixa de largura entregar maior estabilidade em condições difíceis e radicalmente melhorado de alta velocidade em curva por incrível lado-a-lado ação de corrida, pára-choque batendo. Extrema TRX ® 3,3 poder socos fortes e rotações rápido para rasgar passado a competição. O incrível Revo ®-Spec suspensão ligação baseada em choques e anodizado GTR entregar o curso da suspensão aparentemente sem fundo que simula a capacidade de manipulação e pulando de caminhões completos Pro 4X4. Carroçaria novo matador Pro 4X4 e oficialmente licenciados pneus BFGoodrich ® reunir olhares de escala e desempenho 50 mph + para todo o dia de diversão, emoção e competição. É o nitro caminhão de curta duração, que só poderia vir de Traxxas, a mais rápida Nome Na Radio Control ®.
-        Maior. Mais rápido. Mais alto. O novo do Slayer Pro 4X4 ™ oferece o som gritando e impulso balística que anseia cada motorista nitro. Agora, com uma pegada 10% maior, novas do Slayer Pro 4x4 chassis maior distância entre eixos e postura faixa de largura entregar maior estabilidade em condições difíceis e radicalmente melhorado de alta velocidade em curva por incrível lado-a-lado ação de corrida, pára-choque batendo. Extrema TRX ® 3,3 poder socos fortes e rotações rápido para rasgar passado a competição. O incrível Revo ®-Spec suspensão ligação baseada em choques e anodizado GTR entregar o curso da suspensão aparentemente sem fundo que simula a capacidade de manipulação e pulando de caminhões completos Pro 4X4. Carroçaria novo matador Pro 4X4 e oficialmente licenciados pneus BFGoodrich ® reunir olhares de escala e desempenho 50 mph + para todo o dia de diversão, emoção e competição. É o nitro caminhão de curta duração, que só poderia vir de Traxxas, a mais rápida Nome Na Radio Control ®.
-        Maior. Mais rápido. Mais alto. O novo do Slayer Pro 4X4 ™ oferece o som gritando e impulso balística que anseia cada motorista nitro. Agora, com uma pegada 10% maior, novas do Slayer Pro 4x4 chassis maior distância entre eixos e postura faixa de largura entregar maior estabilidade em condições difíceis e radicalmente melhorado de alta velocidade em curva por incrível lado-a-lado ação de corrida, pára-choque batendo. Extrema TRX ® 3,3 poder socos fortes e rotações rápido para rasgar passado a competição. O incrível Revo ®-Spec suspensão ligação baseada em choques e anodizado GTR entregar o curso da suspensão aparentemente sem fundo que simula a capacidade de manipulação e pulando de caminhões completos Pro 4X4. Carroçaria novo matador Pro 4X4 e oficialmente licenciados pneus BFGoodrich ® reunir olhares de escala e desempenho 50 mph + para todo o dia de diversão, emoção e competição. É o nitro caminhão de curta duração, que só poderia vir de Traxxas, a mais rápida Nome Na Radio Control ®.
+        Mystic
+
+        Um Mystic anda um caminho selvagem, animais de estimação de combate ao lado do corpo, exercendo poderes primordiais para prejudicar e curar, capacitando seus aliados enquanto amaldiçoando seus inimigos. Mystics viajar todo o campo de batalha livremente. Eles lutam de perto, cicatrização e aumentar os aliados, drenando e destruindo inimigos. Eles canalizam auras poderosas que melhoram a grupos inteiros. Eles convocar aliados para desenhar aggro, para lutar, ou para curar, e pode convocar todo seu grupo a partir de um local para outro.
+        Adicionar extenso controle de multidões e a capacidade de ressuscitar aliados caídos, e você pode ver por grupos de aventureiros procurá-los. Eles acrescentam que a longevidade de qualquer das partes, pode aproveitar uma situação fora de controle e dominá-la até que seus aliados estão na ofensiva outra vez, ou simplesmente libertar a sua própria fúria mágica. Mystics fazer seus camaradas melhor no que fazem e muito mais.
+
+        Visão geral Skills
+
+        Os Mystics têm mais habilidades do que qualquer outra classe. Além de buffs, debuffs e dano simples, mystics pode se teleportar para longe do perigo, ou convocar seus aliados juntos para uma rápida reagrupar. Eles podem ressuscitar amigos mortos ou chamar seus aliados mágicos para ajudá-los, um tutor para chamar a atenção de um inimigo, um vingador para infligir dor e sofrimento, ou um curador para manter a mística saudável. Mystics proporcionar um aumento em batalha e reabastecimento, oferecendo controle de multidão superlativo e danos respeitável.
       </Descricao>
       <ID>Cat2_4</ID>
-      <ImageUrl>Assets/Items/Categoria2/Item4.jpg</ImageUrl>
-      <Nome>Item 4</Nome>
-      <SubTitulo>1:10 - Traxxas</SubTitulo>
-      <Uri>http://pt.wikipedia.org/wiki/Automodelismo</Uri>
-      <Valor>100,00</Valor>
+      <ImageUrl>Assets/games/Classes/Mystic_Trans.png</ImageUrl>
+      <Nome>Mystic</Nome>
+      <SubTitulo>Classe Mystic</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Místico</Valor>
     </Item>
+
+
+    <Item>
+      <Descricao>
+        Priest
+
+        Sacerdotes podem trazer aliados de volta da beira da morte e além durante a gravação e explodir seu caminho através de falanges de inimigos. Sacerdotes derivar energia a partir de sua devoção aos deuses, mas é a sua devoção aos outros que ganha fama e amigos no campo de batalha. Um padre tem de matar habilidades suficientes para sobreviver sozinha nas situações mais difíceis, e magias de apoio para fortalecer, purificar e ressuscitar os membros do partido em necessidade.
+        De fato, os sacerdotes têm mais magias à sua disposição do que quase qualquer outra disciplina. Os sacerdotes são uma classe de suporte que também pode manter sua própria contra os inimigos. Mantêm-se a si mesmos e seus aliados vivo e regenerado enquanto protege-los de dano crítico, eo tempo ainda livre para alvejar inimigos para queimando explosões de energia divina. Eles podem atingir um companheiro para a cura, ou remover venenos e maldições de qualquer jogador amigável nas proximidades. Eles podem levantar-se aliados que foram derrubados, ou colocar seus inimigos para dormir.
+       
+        Visão geral Skills
+        
+        Sacerdotes explosão, queimar, gatilho, implode, e chocar seus inimigos. Eles também curar, purificar, melhorar, se teletransportar, e ressuscitar os seus amigos. Sua gama de habilidades é variada, contendo habilidades para atacar, curar, e apoio em uma série de maneiras, incluindo a área de efeito e direcionados cura e buffs.
+      </Descricao>
+      <ID>Cat2_5</ID>
+      <ImageUrl>Assets/games/Classes/Priest_Trans.png</ImageUrl>
+      <Nome>Priest</Nome>
+      <SubTitulo>Classe Priest</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Sacerdote</Valor>
+    </Item>
+
+
+
+    <Item>
+      <Descricao>
+        Slayer
+
+        Slayers misturar alta mobilidade com alta capacidade de dano, um membro do partido versátil e valiosa, e um ato de solo talentoso também. É preciso um certo talento para empunhar uma arma enorme, e matadores de se mover tão livremente e com facilidade com seus enormes lâminas que eles poderiam estar dançando com seda.
+        O Slayer faz o seu trabalho com espadas agressivo, movimentos evasivos graciosos, e uma força esmagadora. Ataques circulares Wide-radicais cortar os inimigos por todos os lados, ágil desvia coloca o assassino por trás do inimigo, e saltando Backflip começa atordoar o inimigo e abrir distância.Apesar de sua armadura leve, assassinos pode lutar no meio das coisas, juntamente com guerreiros. Eles são mais rápidos e mais móveis do que berserkers, e seu estilo de ataque girando lhes permite sobressair em tirar mobs ao redor.
+        Como guerreiros, assassinos pode esquivar-se do caminho do mal e vir atrás de inimigos. Slayers  atacar inimigos por trás, enquanto tanques mantê-los ocupados de outros lados.
+
+        Visão geral Skills
+
+        Slayers começam suas carreiras com um ataque de combinação de grande alcance punição que constrói a sua mana e ganha poder quando repetiu, e um Dodge personalizado para a frente de enrolar feito para a criação de ataques extra-danos da parte traseira. Eles rapidamente aprender a balançar, o impulso, salto, rolo, aleta, chute, e giro. Eles podem cortar e desviar de seu caminho através de grupos ou inimigos individuais, e seus ataques circulares são particularmente eficazes em devastando multidão cercando dobrado sobre a sua destruição. Potência e versatilidade 'Slayers torná-las um ativo em qualquer aventura.
+      </Descricao>
+      <ID>Cat2_6</ID>
+      <ImageUrl>Assets/games/Classes/Slayer_Trans.png</ImageUrl>
+      <Nome>Slayer</Nome>
+      <SubTitulo>Classe Slayer</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Matador</Valor>
+    </Item>
+
+
+    <Item>
+      <Descricao>
+        Sorcerer
+
+        Feiticeiros luta de gama, moldando magia através de um disco de arcano, canalizando a força de vontade em folhas de fogo, lâminas de gelo, e esferas de energia pura. O Feiticeiros ataca e foge e ataca novamente, flanqueando o inimigo, saltando fora de perigo, um jogo de posição. Com apenas vestes mágicas de proteção, ficando clara de ataques é vital, e causando dano enorme de uma forma espetacular é tudo em um dia de trabalho para essa classe explosivo.
+        Guerreiros do intelecto, os feiticeiros estão no seu melhor quando estão separados, para assistir vulnerabilidade e faça seus inimigos pagar caro por isso. Os feiticeiros podem não ser tão flexível quanto as outras classes, mas quando seus close-quarters companheiros cair em batalha é muito bom ter artilharia arcana à sua disposição.
+        
+        Visão geral Skills
+        
+        Os feiticeiros podem retardar ou prender alvos, mas sua especialidade é matar o maior número de inimigos no menor período de tempo. Suas habilidades são uma mistura de área, in-line e ataques direcionados e debuffs.
+        Eles montaram armadilhas do poder e as armadilhas de agonia assassinato puro explosivo. Eles recarregar a mana gasto em combate, e estão quase prontas para lutar novamente. Sua desenfreada matança influência torna indispensável para qualquer grupo de aventureiros.
+      </Descricao>
+      <ID>Cat2_7</ID>
+      <ImageUrl>Assets/games/Classes/Sorcerer_Trans.png</ImageUrl>
+      <Nome>Sorcerer</Nome>
+      <SubTitulo>Classe Sorcerer</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Feiticeiros</Valor>
+    </Item>
+
+  
+
+    <Item>
+      <Descricao>
+        Warrior
+        Um guerreiro dano com impressionantes façanhas mortais de esgrima, enquanto tecendo dentro e fora dos ataques dos inimigos. É o caminho do guerreiro para mergulhar no meio da briga e cortarem a oposição. Invulnerabilidade ao usar a habilidade Rolo Evasive significa o guerreiro pode fazer dano suficiente para segurar o foco, e ainda esquivar e rolar para fora do caminho do mal. Chegando-se atrás de um oponente depois de um rolo permite que o guerreiro atacar por trás, antes de seu oponente pode se transformar e contra-ataque.
+        Movimentos hábeis do guerreiro e rápida desvia torná-lo fácil de segurar foco, evitando danos.Rápido para tomar decisões e mais rápido para desenhar espadas, o guerreiro não vai cair para trás no campo de batalha. Se você perdeu o seu guerreiro, sempre olhar para a frente, nunca para trás.
+        
+        Visão geral Skills
+        
+        Habilidades do guerreiro focar esgrima ea capacidade de mover-se rapidamente e facilmente através de qualquer batalha. O guerreiro está pulando terras evitá-los por trás de seu oponente e dá invencibilidade temporária, tornando-os uma força a ser temida. Seus ataques são eficazes para a sua imponência perturbador, tanto quanto por sua manifesta o poder, a menos que você pisca.
+        De gritos que param os inimigos em seu caminho para rodopiando danças de espada da morte, os guerreiros possuem uma gama impressionante de habilidades, incluindo-inimigo impressionantes golpes, habilidades lâmina deslumbrantes, e posturas foco de desenho para completar um conjunto impressionante de habilidades de combate.
+      </Descricao>
+      <ID>Cat2_8</ID>
+      <ImageUrl>Assets/games/Classes/Warrior_Trans.png</ImageUrl>
+      <Nome>Warrior</Nome>
+      <SubTitulo>Classe Warrior</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Guerreiro</Valor>
+    </Item>
+    
   </Items>
   <Nome>Classes</Nome>
   <SubTitulo></SubTitulo>

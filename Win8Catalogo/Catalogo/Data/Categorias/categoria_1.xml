@@ -97,7 +97,43 @@
       <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
       <Valor>Cidade Capital: Allemantheia</Valor>
     </Item>
-  
+
+    <Item>
+      <Descricao>
+        História
+        
+        O deus GIDD criou a raça humana, mas virou as costas para eles quando eles pediram a ele por uma pátria. Quando os primeiros seres humanos conspiraram para roubar tesouros inestimáveis do GIDD, ele amaldiçoou a vagar eternamente. Como a Guerra Divina se aproximava do fim, a maldição sobre os seres humanos levantada. Velik, deusa da caça, teve pena de os humanos e concedeu-lhes a pátria que muito havia sido negado. Seu capital hoje é a bela cidade de rodas que ela criou com eles.
+        
+        Os seres humanos hoje
+        
+        Os seres humanos hoje estão na vanguarda de uma nova coalizão política e militar movimento da Federação Valkyon. Cadastrado com cinco outras raças ansiosos para colocar as divisões do passado para trás, os humanos são os sonhadores, os construtores, os unificadores que tornam este tempo diferente de todas as vezes que vieram antes.
+      </Descricao>
+      <ID>Cat1_6</ID>
+      <ImageUrl>Assets/games/intens/Human_Trans.png</ImageUrl>
+      <Nome>Human</Nome>
+      <SubTitulo>Raça Human</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Cidade Capital: Velika</Valor>
+    </Item>
+
+
+    <Item>
+      <Descricao>
+        História
+
+        O deus GIDD criou a raça humana, mas virou as costas para eles quando eles pediram a ele por uma pátria. Quando os primeiros seres humanos conspiraram para roubar tesouros inestimáveis do GIDD, ele amaldiçoou a vagar eternamente. Como a Guerra Divina se aproximava do fim, a maldição sobre os seres humanos levantada. Velik, deusa da caça, teve pena de os humanos e concedeu-lhes a pátria que muito havia sido negado. Seu capital hoje é a bela cidade de rodas que ela criou com eles.
+
+        Os seres humanos hoje
+
+        Os seres humanos hoje estão na vanguarda de uma nova coalizão política e militar movimento da Federação Valkyon. Cadastrado com cinco outras raças ansiosos para colocar as divisões do passado para trás, os humanos são os sonhadores, os construtores, os unificadores que tornam este tempo diferente de todas as vezes que vieram antes.
+      </Descricao>
+      <ID>Cat1_7</ID>
+      <ImageUrl>Assets/games/intens/Popori_Trans.png</ImageUrl>
+      <Nome>Popori</Nome>
+      <SubTitulo>Raça Popori</SubTitulo>
+      <Uri>http://tera.enmasse.com/game-guide/classes</Uri>
+      <Valor>Cidade Capital: Pora Elinu</Valor>
+    </Item>
   
   
   

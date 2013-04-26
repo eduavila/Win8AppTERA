@@ -13,11 +13,11 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.exe">
-      <PackagePath>Win8Catalogo.exe</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppGuiaTera.exe">
+      <PackagePath>AppGuiaTera.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.pdb">
-      <PackagePath>Win8Catalogo.pdb</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppGuiaTera.pdb">
+      <PackagePath>AppGuiaTera.pdb</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\30pxLogo.png">
       <PackagePath>Assets\30pxLogo.png</PackagePath>
@@ -31,6 +31,30 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\DarkGray.png">
       <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Archer_Trans.png">
+      <PackagePath>Assets\games\Classes\Archer_Trans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Berserker_Trans.png">
+      <PackagePath>Assets\games\Classes\Berserker_Trans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Lancer_Trans.png">
+      <PackagePath>Assets\games\Classes\Lancer_Trans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Mystic_Trans.png">
+      <PackagePath>Assets\games\Classes\Mystic_Trans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Priest_Trans.png">
+      <PackagePath>Assets\games\Classes\Priest_Trans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Slayer_Trans.png">
+      <PackagePath>Assets\games\Classes\Slayer_Trans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Sorcerer_Trans.png">
+      <PackagePath>Assets\games\Classes\Sorcerer_Trans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Warrior_Trans.png">
+      <PackagePath>Assets\games\Classes\Warrior_Trans.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Amani_Trans.png">
       <PackagePath>Assets\games\intens\Amani_Trans.png</PackagePath>
@@ -46,6 +70,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Elin_Trans.png">
       <PackagePath>Assets\games\intens\Elin_Trans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Human_Trans.png">
+      <PackagePath>Assets\games\intens\Human_Trans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Popori_Trans.png">
+      <PackagePath>Assets\games\intens\Popori_Trans.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
@@ -141,8 +171,8 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SmallLiveTile2.jpg">
       <PackagePath>Assets\SmallLiveTile2.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Common\ReadMe.txt">
-      <PackagePath>Common\ReadMe.txt</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Categorias\categoria_3.xml">
+      <PackagePath>Catalogo\Data\Categorias\categoria_3.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Categorias\categoria_1.xml">
       <PackagePath>Catalogo\Data\Categorias\categoria_1.xml</PackagePath>
@@ -152,6 +182,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Empresa\Empresa.xml">
       <PackagePath>Catalogo\Data\Empresa\Empresa.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>

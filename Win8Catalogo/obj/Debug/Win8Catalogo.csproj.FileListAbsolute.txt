@@ -88,8 +88,6 @@ C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalog
 C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles
 C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\LanguageQualifiers.txt
 C:\Users\visouza\Projetos\Windows 8\AppsAppDay\Codeplex\Win8Catalogo\Win8Catalogo\obj\Debug\ProjectArchitectures.txt
-C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.exe
-C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.pdb
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\resources.pri
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppxManifest.xml
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\Win8Catalogo.build.appxrecipe
@@ -121,8 +119,6 @@ C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\Settings
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\ContactUs.xaml
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\Common\StandardStyles.xaml
-C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\Win8Catalogo.exe
-C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\Win8Catalogo.pdb
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\priconfig.xml
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\layout.resfiles
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\resources.resfiles
@@ -133,3 +129,7 @@ C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\priconfi
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\layout.resfiles.intermediate
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\resources.resfiles.intermediate
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles.intermediate
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppGuiaTera.exe
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppGuiaTera.pdb
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\AppGuiaTera.exe
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\AppGuiaTera.pdb
