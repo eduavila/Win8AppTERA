@@ -69,81 +69,81 @@ namespace Win8Catalogo.Data
                         "Curabitur class aliquam vestibulum nam curae maecenas sed integer cras phasellus suspendisse quisque donec dis praesent accumsan bibendum pellentesque condimentum adipiscing etiam consequat vivamus dictumst aliquam duis convallis scelerisque est parturient ullamcorper aliquet fusce suspendisse nunc hac eleifend amet blandit facilisi condimentum commodo scelerisque faucibus aenean ullamcorper ante mauris dignissim consectetuer nullam lorem vestibulum habitant conubia elementum pellentesque morbi facilisis arcu sollicitudin diam cubilia aptent vestibulum auctor eget dapibus pellentesque inceptos leo egestas interdum nulla consectetuer suspendisse adipiscing pellentesque proin lobortis sollicitudin augue elit mus congue fermentum parturient fringilla euismod feugiat");
 
             var group1 = new Categoria("Group-1",
-                    "Automodelo On Road",
-                    "Velocidade sem limites",
-                    "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante", 
-                    "Assets/Items/Categoria2/Item1.jpg");
+                    "Raças",
+                    "TERA Online",
+                    "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+                    "Assets/games/intens/Castanic_Trans.png");
             group1.Items.Add(new Item("Group-1-Item-1",
                     "Lorem ipsum dolor",
                     ITEM_CONTENT,
                     "400.00",
-                    "Assets/Items/Categoria1/Item1.jpg",
+                    "Assets/games/intens/Amani_Trans.png",
                     "1:10 Losi RTR",
-                    "http://pt.wikipedia.org/wiki/Automodelos_off_road",
+                    "",
                     group1.ID));
             group1.Items.Add(new Item("Group-1-Item-2",
                     "Lorem ipsum dolor",
                     ITEM_CONTENT,
                     "480.00",
-                    "Assets/Items/Categoria1/Item2.jpg",
+                    "Assets/games/intens/Amani_Trans.png",
                     "1:10 Losi RR",
-                    "http://pt.wikipedia.org/wiki/Automodelos_off_road",
+                    "",
                     group1.ID));
             group1.Items.Add(new Item("Group-1-Item-3",
                     "Lorem ipsum dolor",
                     ITEM_CONTENT,
                     "400.00",
-                    "Assets/Items/Categoria1/Item3.jpg",
+                    "Assets/games/intens/Amani_Trans.png",
                     "1:10 Traxxas",
-                    "http://pt.wikipedia.org/wiki/Automodelos_off_road",
+                    "",
                     group1.ID));
             group1.Items.Add(new Item("Group-1-Item-4",
                     "Lorem ipsum dolor",
                     ITEM_CONTENT,
                     "900.00",
-                    "Assets/Items/Categoria1/Item4.jpg",
+                    "Assets/games/intens/Amani_Trans.png",
                     "1:10 Losi XXXX",
-                    "http://pt.wikipedia.org/wiki/Automodelos_off_road",
+                    "",
                     group1.ID));
-            
+
             this.AllGroups.Add(group1);
 
             var group2 = new Categoria("Group-2",
-                    "Automodelo OFF Road",
-                    "Emoção fora das pistas",
+                    "Classes",
+                    "TERA-Online",
                     "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
-                    "Assets/Items/Categoria2/Item1.jpg");
+                    "Assets/games/intens/Amani_Trans.png");
             group2.Items.Add(new Item("Group-2-Item-1",
                     "Lorem ipsum dolor",
                     ITEM_CONTENT,
                     "400.00",
-                    "Assets/Items/Categoria2/Item1.jpg",
+                    "Assets/games/intens/Amani_Trans.png",
                     "1:10 Losi RTR",
-                    "http://pt.wikipedia.org/wiki/Automodelos_off_road",
+                    "",
                     group2.ID));
             group2.Items.Add(new Item("Group-2-Item-2",
                     "Lorem ipsum dolor",
                     ITEM_CONTENT,
                     "480.00",
-                    "Assets/Items/Categoria2/Item2.jpg",
+                    "Assets/games/intens/Amani_Trans.png",
                     "1:10 Losi RR",
-                    "http://pt.wikipedia.org/wiki/Automodelos_off_road",
+                    "",
                     group2.ID));
             group2.Items.Add(new Item("Group-2-Item-3",
                     "Lorem ipsum dolor",
                     ITEM_CONTENT,
                     "400.00",
-                    "Assets/Items/Categoria2/Item3.jpg",
+                    "Assets/games/intens/Amani_Trans.png",
                     "1:10 Traxxas",
-                    "http://pt.wikipedia.org/wiki/Automodelos_off_road",
+                    "",
                     group2.ID));
             group2.Items.Add(new Item("Group-2-Item-4",
                     "Lorem ipsum dolor",
                     ITEM_CONTENT,
                     "900.00",
-                    "Assets/Items/Categoria2/Item4.jpg",
+                    "Assets/games/intens/Amani_Trans.png",
                     "1:10 Losi XXXX",
-                    "http://pt.wikipedia.org/wiki/Automodelos_off_road",
+                    "",
                     group2.ID));
 
             this.AllGroups.Add(group2);

@@ -102,8 +102,8 @@
                     <ColumnDefinition Width="53*"/>
                 </Grid.ColumnDefinitions>
                 <Grid x:Name="grdMainImage">
-                    <Image Name="ImgEmpresa" Source="Assets/HubPage/HubPageMainImage.png" Stretch="Fill" Margin="0,0,-438,0" Height="768" VerticalAlignment="Top" />
-                    <Grid HorizontalAlignment="Right" Height="549" VerticalAlignment="Bottom" Width="445" Margin="0,0,10,110" Background="#EA1E2324">
+                    <Image Name="ImgEmpresa" Source="Assets/HubPage/HubPageMainImage.png" Stretch="Fill" Margin="0,0,-410,0" Height="768" VerticalAlignment="Top" />
+                    <Grid HorizontalAlignment="Left" Height="249" VerticalAlignment="Bottom" Width="445" Margin="0,0,10,410" Background="#EA1E2324">
                         <Grid.RowDefinitions>
                             <RowDefinition Height="80" x:Name="headerRow"/>
                             <RowDefinition Height="*"/>
@@ -132,7 +132,7 @@
         			SelectionMode="None"
         			IsSwipeEnabled="false"
         			IsItemClickEnabled="True"
-        			ItemClick="ItemView_ItemClick" Margin="0" Grid.Column="1">
+        			ItemClick="ItemView_ItemClick" Margin="0,0,326,0" Grid.Column="1">
 
                     <GridView.ItemsPanel>
                         <ItemsPanelTemplate>

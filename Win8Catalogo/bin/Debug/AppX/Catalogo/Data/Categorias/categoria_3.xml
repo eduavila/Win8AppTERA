@@ -1,67 +1,410 @@
 ﻿<Categoria xmlns="http://schemas.datacontract.org/2004/07/Win8Catalogo.Catalogo.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-  <Descricao>1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-  </Descricao>
+  <Descricao>
+   Continentes do TERA são divididos em dois lados Arun e Shara e quatro peças Arun Norte, Sul Arun, Shara Norte, e Sul Shara. Arun e Shara ser titãs que escaparam seu reino para construir um novo. Os continentes são realmente os corpos de cada um e todos os habitantes das criaturas para as plantas foram criadas a partir de seus pensamentos  </Descricao>
   <ID>3</ID>
-  <ImageUrl>Assets/Categoria/Categoria2.jpg</ImageUrl>
+  <ImageUrl>Assets/games/Categoria/world_infomap.jpg</ImageUrl>
   <Items>
     <Item>
       <Descricao>
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-      </Descricao>
+      Provincia Arcadia 
+      Esta região exploração madeireira e agricultura tem crescido cada vez mais perigoso para os viajantes e residentes. Os perigos são muitos: revoltas kulkari, Deva incursões, uma guerra entre madeireiros e as raças enigmático, eo surgimento de um culto que se autodenomina os descendentes de Lok. A frente argônio consome soldados como algum animal grande, então a Federação Valkyon precisa de você em Arcadia para fazer o que os soldados já não pode.
+
+      História 
+
+      Arcadia é a província mais ao norte no sul Arun . Suas florestas e fazendas têm sido, tradicionalmente, vital para a economia de Velika e, mais recentemente, para o esforço de guerra argônio.
+      Humanos madeireiros no norte da Arcadia sempre tiveram uma relação delicada com as raças das fadas, mas nos últimos tempos isso tem aumentado a uma insurgência quase constante. Que forças da federação pode ser poupado do esforço de guerra para manter rotas de abastecimento aberto e os cidadãos seguros, mas Kulkari edeva ataques em redutos humanos fizeram desta região agrícola e agricultura de outrora pacífica em um lugar perigoso para os viajantes e residentes.
+      Na parte sudoeste da província, um verdejante Pantanal tornou-se a casa do tuwangis -uma cultura que depende derãs para o sustento, vestuário, habitação e comunicação. Uma vez que razoavelmente pacífica, eles tornaram-se recentemente antagônica a quem empreendimentos dentro Mire Tuwangi .
+
+
+      Principais Cidades
+     •	Crescentia
+     •	Lumbertown
+
+   </Descricao>
       <ID>Cat3_1</ID>
-      <ImageUrl>Assets/Items/Categoria2/Item1.jpg</ImageUrl>
-      <Nome>Item 1</Nome>
-      <SubTitulo>1:10 - Team Losi</SubTitulo>
-      <Uri>http://pt.wikipedia.org/wiki/Automodelismo</Uri>
-      <Valor>1500,00</Valor>
+      <ImageUrl>Assets/games/Provincias/Sylvanoth_Concept.jpg</ImageUrl>
+      <Nome>Arcadia</Nome>
+      <SubTitulo>Provincia Arcadia </SubTitulo>
+      <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+      <Valor>Continente :  Sul de Arun</Valor>
     </Item>
     <Item>
       <Descricao>
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-      </Descricao>
+        Island of Dawn
+
+        Island of Dawn é uma ilha entre os continentes sul Arun e Shara . É a zona de partida para personagens recém-criados, e também apresenta a primeira cidade que um jogador pode visitar, Base Tower .
+
+        História
+        
+        Só há pouco tempo, a Ilha de Dawn subiu do mar entre os continentes da Arun e Shara, jogando tudo o que sabemos sobre o mundo no caos. A expedição científica deixou quase imediatamente de Velika para investigar o caso eo misterioso novo própria terra.
+        Havia mistérios suficientes para manter esta equipe de cientistas ocupados por anos. Como poderia um novo console em casa em ruínas e relíquias antigas? Por que foi povoada por animais selvagens, os espíritos da natureza, e os demônios?
+        Antes que eles pudessem fazer mais do que começar a fazer perguntas, a maioria dos membros da primeira expedição pereceram em um ataque demônio reunido, enquanto o líder da expedição, Elleon, desapareceu e foi dado como morto.
+
+        Grandes cidades e acidentes geográficos
+        •	Base Tower
+        •	Mathar Spire
+        •	Ruínas misteriosas
+        •	Arun Heights
+        •	Gorge Tainted
+</Descricao>
       <ID>Cat3_2</ID>
-      <ImageUrl>Assets/Items/Categoria2/Item2.jpg</ImageUrl>
-      <Nome>Item 2</Nome>
-      <SubTitulo>1:8 - Kyosho</SubTitulo>
-      <Uri>http://pt.wikipedia.org/wiki/Automodelismo</Uri>
-      <Valor>900,00</Valor>
+      <ImageUrl>Assets/games/Provincias/SulArun/Island of Dawn.png</ImageUrl>
+      <Nome>Island of Dawn</Nome>
+      <SubTitulo>Island of Dawn</SubTitulo>
+      <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+      <Valor>Continente : Entre Sul de 
+      Arun e Shara </Valor>
     </Item>
     <Item>
       <Descricao>
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
-        1/8-scale Losi 8ight de 2,0 Ready-to-Run Nitro Buggy torna mais fácil do que nunca para que todos possam experimentar a emoção de dirigir um buggy 1/8-scale ou entrar em corridas off-road 1/8-scale competitivo. Projetado com o driver de nível de entrada em mente, o 8ight 2,0 RTR é completamente montado e pronto para correr com o chassis, rodas, pneus e produtos eletrônicos já instalados.
+        Val Aureum
+       
+        Val Aureum é uma das províncias do sul Arun continente.
+        A sul da cidade capital da Velika , os campos férteis das freeholds dão lugar às areias escaldantes e as ruínas de sol branqueada de Val Aureum. Caçadores de tesouros para peneirar maravilhas do mundo antigo. Bandidos de todos os tipos esconder nos cânions de pedra. Monstros enormes patrulhar as areias e males antigos dormir debaixo dela.Rumores sussurrar que o culto de Lok tem enclaves em algum lugar entre as ruínas dos antigos gigantes.
+
+        História
+        
+        Esta foi a antiga fortaleza dos gigantes, cujo império já atravessou dois continentes, antes dos deuses impediu de conquistar o mundo inteiro. Remanescentes dos conquistadores outrora poderosos ainda podem ser encontrados nas regiões a noroeste de Val Aureum, que vivem no encalço de Lokians , cuja presença nas ruínas Colossal cresceu tanto mais forte e mais ousado nos últimos tempos.
+        A região é o lar de nativos kulkari tribos, enquanto golems -restos de gigante da tecnologia de séculos passados, percorrem as dunas em embalagens de caça. A cidade do deserto de Tulufan se apega a água ea vida por um fio, enquanto o mais próspero Chebika prospera na fronteira dos freeholds, um antigo centro agrícola que está se tornando rapidamente uma outra fortaleza Lokian. 
+
+        Grandes cidades e acidentes geográficos
+        •	Chebika
+        •	Tulufan
+        •	Dark Cathedral    
       </Descricao>
       <ID>Cat3_3</ID>
-      <ImageUrl>Assets/Items/Categoria2/Item3.jpg</ImageUrl>
-      <Nome>Item 3</Nome>
-      <SubTitulo>1:10 - Losi - RTR</SubTitulo>
-      <Uri>http://pt.wikipedia.org/wiki/Automodelismo</Uri>
-      <Valor>120,00</Valor>
+      <ImageUrl>Assets/games/Provincias/SulArun/Val Aureum.jpg</ImageUrl>
+      <Nome> Val Aureum</Nome>
+      <SubTitulo>Província Val Aureum</SubTitulo>
+      <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+      <Valor>Continente :  Sul de Arun</Valor>
     </Item>
+    
     <Item>
       <Descricao>
-        Maior. Mais rápido. Mais alto. O novo do Slayer Pro 4X4 ™ oferece o som gritando e impulso balística que anseia cada motorista nitro. Agora, com uma pegada 10% maior, novas do Slayer Pro 4x4 chassis maior distância entre eixos e postura faixa de largura entregar maior estabilidade em condições difíceis e radicalmente melhorado de alta velocidade em curva por incrível lado-a-lado ação de corrida, pára-choque batendo. Extrema TRX ® 3,3 poder socos fortes e rotações rápido para rasgar passado a competição. O incrível Revo ®-Spec suspensão ligação baseada em choques e anodizado GTR entregar o curso da suspensão aparentemente sem fundo que simula a capacidade de manipulação e pulando de caminhões completos Pro 4X4. Carroçaria novo matador Pro 4X4 e oficialmente licenciados pneus BFGoodrich ® reunir olhares de escala e desempenho 50 mph + para todo o dia de diversão, emoção e competição. É o nitro caminhão de curta duração, que só poderia vir de Traxxas, a mais rápida Nome Na Radio Control ®.
-        Maior. Mais rápido. Mais alto. O novo do Slayer Pro 4X4 ™ oferece o som gritando e impulso balística que anseia cada motorista nitro. Agora, com uma pegada 10% maior, novas do Slayer Pro 4x4 chassis maior distância entre eixos e postura faixa de largura entregar maior estabilidade em condições difíceis e radicalmente melhorado de alta velocidade em curva por incrível lado-a-lado ação de corrida, pára-choque batendo. Extrema TRX ® 3,3 poder socos fortes e rotações rápido para rasgar passado a competição. O incrível Revo ®-Spec suspensão ligação baseada em choques e anodizado GTR entregar o curso da suspensão aparentemente sem fundo que simula a capacidade de manipulação e pulando de caminhões completos Pro 4X4. Carroçaria novo matador Pro 4X4 e oficialmente licenciados pneus BFGoodrich ® reunir olhares de escala e desempenho 50 mph + para todo o dia de diversão, emoção e competição. É o nitro caminhão de curta duração, que só poderia vir de Traxxas, a mais rápida Nome Na Radio Control ®.
-        Maior. Mais rápido. Mais alto. O novo do Slayer Pro 4X4 ™ oferece o som gritando e impulso balística que anseia cada motorista nitro. Agora, com uma pegada 10% maior, novas do Slayer Pro 4x4 chassis maior distância entre eixos e postura faixa de largura entregar maior estabilidade em condições difíceis e radicalmente melhorado de alta velocidade em curva por incrível lado-a-lado ação de corrida, pára-choque batendo. Extrema TRX ® 3,3 poder socos fortes e rotações rápido para rasgar passado a competição. O incrível Revo ®-Spec suspensão ligação baseada em choques e anodizado GTR entregar o curso da suspensão aparentemente sem fundo que simula a capacidade de manipulação e pulando de caminhões completos Pro 4X4. Carroçaria novo matador Pro 4X4 e oficialmente licenciados pneus BFGoodrich ® reunir olhares de escala e desempenho 50 mph + para todo o dia de diversão, emoção e competição. É o nitro caminhão de curta duração, que só poderia vir de Traxxas, a mais rápida Nome Na Radio Control ®.
-      </Descricao>
+       Poporia 
+       Vales sombrios e florestas misteriosas esperam por soldados da Federação Valkyon como eles se aventurar em Poporia.Antigos mistérios e conspirações sombrias pôr em perigo o reino, incluindo a ameaça permanente dos Descendentes de Lok. Os vampirs, longas aliados de Poporia, crescer inquieto e sede de sangue como nunca antes. Rumores perturbadores surgem a partir das plantações de Outono céus.
+
+
+       História
+       Poporia é a sede da última monarquia da Federação Valkyon, governado por um Elin rainha. Os Elins e poporis que lá vivem têm sido inimigos formidáveis ao longo da história, apesar de sua aparência um tanto inofensivo. Os vampirs, outra raça antiga, ter compartilhado da província pacificamente por muitas gerações.
+       Esta província também abriga a Academia Eldritch, onde as bruxas de Vadoma levantaram bolsa mágica para uma forma de arte, a recolha de investigação de todos os lugares e todas as idades da história para aumentar o conhecimento arcano para todos.
+       Pora Elinu, a capital, é construído em uma árvore enorme no Lago das Lágrimas. Popolion é maior, mas politicamente menos importante. [2]
+
+       Grandes cidades e acidentes geográficos
+       • Popolion
+       • Pora Elinu
+       • Lake of Tears
+       • Eldritch Academy
+
+       </Descricao>
       <ID>Cat3_4</ID>
-      <ImageUrl>Assets/Items/Categoria2/Item4.jpg</ImageUrl>
-      <Nome>Item 4</Nome>
-      <SubTitulo>1:10 - Traxxas</SubTitulo>
-      <Uri>http://pt.wikipedia.org/wiki/Automodelismo</Uri>
-      <Valor>100,00</Valor>
+      <ImageUrl>Assets/games/Provincias/SulArun/poporia.jpg</ImageUrl>
+      <Nome> Poporia </Nome>
+      <SubTitulo>Província Poporia</SubTitulo>
+      <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+      <Valor>Continente :  Sul de Arun</Valor>
     </Item>
-  </Items>
+      
+
+        
+      <Item>
+      <Descricao>
+        Ostgarath
+
+        Escondido no canto nordeste do Sul Arun está a província de Ostgarath. A cidade de Castanica está situado no coração da província costeira. O castanic de capital e seus arredores enfrentam muitas ameaças, não menos do que são os nagaspara o oeste, que vai parar em nada para ressuscitar o deus-serpente que os criou. O assassino Syndicate Kazuur , mestres do tráfico de escravos, que contou com a ajuda dos ameaçadores piratas Lash vermelho para controlar a maior parte do sul.
+
+        História
+
+        Ostgarath é mais conhecida como a casa de Castanica , a roda livre Castanic capital, onde vale tudo. Para o sul é a grande cidade aberta de Cutthroat Porto , governado pelos piratas Lash vermelho e rumores de ser o lar de um próspero comércio de escravos supervisionado pelo Sindicato Kazuur .
+        Para o norte é a caldeira ardente de Fyrmount , onde o jovem castanics venture para seu cadinho-o de tentativa de amadurecimento castanic. Para o leste são Mistmoor Ilha e Serpentis Ilha , onde rumores de ações escuras incluem um comércio gula controlado em carne humana. 
+
+        Grandes cidades e acidentes geográficos
+        •	Castanica
+        •	Cutthroat Harbor
+        •	Mistmoor Island
+        •	Pirate's Grotto
+        •	Azarel's Temple
+        •	Serpentis Isle 
+      </Descricao>
+      <ID>Cat3_5</ID>
+      <ImageUrl>Assets/games/Provincias/SulArun/Ostgarath.jpg</ImageUrl>
+      <Nome>Ostgarath</Nome>
+      <SubTitulo>Província Ostgarath</SubTitulo>
+      <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+      <Valor>Continente :  Sul de Arun</Valor>
+    </Item>
+  
+    <!-- fim de provincia de sul Arun -->
+
+  
+   <Item>
+        <Descricao>
+          Sylvanoth
+
+          Sylvanoth é uma das províncias do Norte Shara continente.
+
+          História
+          
+          Sylvanoth é a província mais ao sul, no norte Shara. Os Argons usado uma vez esta província como um ponto de acesso para penetrar Sul Shara via Essenia. Sua ampla do sul abraços fronteira do Grande Rift criado quando o deus benevolente Balder se sacrificou para salvar o mundo de relíquias divinas instáveis dos deuses.
+          A província é a casa da fada, o mekonari, o Sikandari, eo deus adormecido Sikander. O Sikandari, guardiões do ovo seu deus descansa dentro, já estava devidamente vigiar Sikander, esperando pacientemente para ele emergir em seu próprio tempo. Por outro lado, o mekonari separou os filhos de Sikander há muito tempo, abandonando seu posto ao lado de Sikander.
+          
+          Grandes cidades e acidentes geográficos
+          •	Dragonfall 
+          •	Raven Altar 
+          •	Temple of Sikander 
+          •	The Hatchery 
+          •	Sanctum of Resurrection 
+          •	Scythera Fae
+
+        </Descricao>
+        <ID>Cat3_6</ID>
+        <ImageUrl>Assets/games/Provincias/NorteShara/Sylvanoth.jpg</ImageUrl>
+        <Nome>Sylvanoth</Nome>
+        <SubTitulo>Província Sylvanoth</SubTitulo>
+        <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+        <Valor>Continente :  Norte de Shara</Valor>
+      </Item>  
+  
+        <Item>
+          <Descricao>
+            Lorcada
+            
+            Lorcada é uma das províncias do Norte Shara continente.
+
+            História
+            
+            Lorcada abriga principalmente à Amani, principalmente Muhrak, o Legendary Blacksmith, que passa seus dias em uma forja incrível abaixo Habere. O Amani que vivem aqui são as mais difíceis do difícil, depois de ter passado a vida que vivem à sombra de dois deuses malignos.
+            Os loucos deus Killian parcelas em seu covil, o Labirinto do Terror, buscando desencadear o caos no mundo. Thulsa, por outro lado, os relógios de sua torre de Ébano, onde esquemas para escravizar. O povo de Lorcada ter não só lutou contra essa dupla do mal, mas também os wendigos cristalinas, ondulantes sirenes, e os últimos vestígios do império dos gigantes.
+            
+            Grandes cidades e acidentes geográficos
+            •	Habere
+            •	Divine Furnace
+
+
+          </Descricao>
+          <ID>Cat3_7</ID>
+          <ImageUrl>Assets/games/Provincias/NorteShara/Lorcada.jpg</ImageUrl>
+          <Nome>Lorcada</Nome>
+          <SubTitulo>Província Lorcada</SubTitulo>
+          <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+          <Valor>Continente :  Norte de Shara</Valor>
+        </Item>  
+
+
+      <Item>
+          <Descricao>
+            Val Tirkai
+            
+            Val Tirkai é uma das províncias do Norte Shara continente.
+
+            História
+            
+            Os Argons pisoteado as densas florestas de Val Tirkai em sua missão para assumir Norte Shara, usando esta província, uma vez exuberante e saudável como um grande laboratório ao ar livre, realização de experimentos cruéis em seres sencientes. No processo, eles terraformado grande parte da terra para atender às suas necessidades alienígenas.
+            Os Argons pisoteado as densas florestas de Val Tirkai em sua missão para assumir Norte Shara, usando esta província, uma vez exuberante e saudável como um grande laboratório ao ar livre, realização de experimentos cruéis em seres sencientes. No processo, eles terraformado grande parte da terra para atender às suas necessidades alienígenas.
+            
+            Grandes cidades e acidentes geográficos
+            •	Pathfinder Post
+            •	Three Towers
+          </Descricao>
+          <ID>Cat3_8</ID>
+          <ImageUrl>Assets/games/Provincias/NorteShara/Val Tirkai.jpg</ImageUrl>
+          <Nome>Val Tirkai</Nome>
+          <SubTitulo>Província de Val Tirkai</SubTitulo>
+          <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+          <Valor>Continente :  Norte de Shara</Valor>
+        </Item> 
+
+  
+  <Item>
+          <Descricao>
+            Distrito Helkan 
+            
+            Helkan District é uma das províncias do Shara continente.
+            
+            História
+            
+            Dentro do Distrito Helkan está na linha de frente na guerra contra os Argons. A federação levou o inimigo de volta para o norte no Distrito Helkan e manteve a linha após tentativa frustrada dos Argons para assumir Norte Shara e infiltrar Sul Shara.
+            Redutos Agron ainda pontuam este deserto devastado pela guerra de um lado do mapa para o outro, e continuar para o norte em Val Kaeli .Mas eles não são os únicos com fortalezas aqui. A federação continua a manter os Argons ocupados na frente e os soldados de guerrilha chamado Shariar estão lutando ao lado deles. Eles pretendem ter de volta o que os Argons ter roubado, e restaurar a paz na região.
+            
+            Grandes cidades e acidentes geográficos
+            •	Zulfikar Fortaleza
+            •	Khanovar Citadel
+            •	Valgurati Stronghold
+
+
+          </Descricao>
+          <ID>Cat3_8</ID>
+          <ImageUrl>Assets/games/Provincias/NorteShara/Helkan Distrito.jpg</ImageUrl>
+          <Nome>Distrito Helkan</Nome>
+          <SubTitulo>Província de Distrito Helkan</SubTitulo>
+          <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+          <Valor>Continente :  Norte de Shara</Valor>
+        </Item> 
+  
+  
+         <Item>
+          <Descricao>
+            Val Kaeli
+            
+            Val Kaeli é uma das províncias do Norte Shara continente
+
+            História
+            
+            Val Kaeli é acreditado para ser o lugar onde as Argons surgiu a partir de seu mundo subterrâneo. A partir daqui, eles continuaram sul e oeste ao longo da fronteira do Norte do Shara, terraformação a terra e argonifying incontáveis formas de vida ao longo do caminho como eles construíram a sua infantaria argônio.
+            A pequena cidade de castanic Kanstria fica no canto sudoeste de Val Kaeli, cortado do resto do mundo pelos Argons. O Valsekyr caça já não persegue desde os Argons transformou toda a vida nativa criaturas, incluindo o grande jogo. Agora, os caçadores de lutar ao lado de soldados da federação. Pesquisadores aqui desesperadamente estudar as Argons com a esperança de que o conhecimento de sua tecnologia e motivações ajudará a derrotar os Argons.
+            
+            Grandes cidades e acidentes geográficos
+            •	Argonea
+            •	Agnurok Motor
+            •	Viridian Motor
+            •	Ninho do Shaper
+          </Descricao>
+          <ID>Cat3_9</ID>
+          <ImageUrl>Assets/games/Provincias/NorteShara/Val Kaeli.jpg</ImageUrl>
+          <Nome>Val Kaeli</Nome>
+          <SubTitulo>Província de Val Kaeli</SubTitulo>
+          <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+          <Valor>Continente :  Norte de Shara</Valor>
+        </Item> 
+  
+       <Item>
+          <Descricao>
+            Essenia
+
+            Essenia é uma das províncias do continente sul do Shara. 
+
+            História
+            
+            Contos de conflito e luta preencher o passado de Essenia. Os seres humanos, elfos, Argons, mesmo um deus ou dois brigaram montanhas e florestas da Essenia. Enquanto essênio Crest carrega as cicatrizes mais evidentes, os solos tóxicos de Blightwood colonos desafio ainda.A floresta sobrenatural de madeiras atemporal e as longas corridas exuberantes dica Bacia Bênção no verdadeiro valor do Essenia.
+            Início principalmente para os seres humanos e elfos, Essenia é um destino apreciado por Amani buscando mais descansadas, configurações exuberantes. As cicatrizes da invasão argônio resistiu longe, mas a guerra nunca está longe de Essenia. Forças antigas, tanto divinos e mortais, investiu muito na província, e aqueles que cobiçam o poder nunca estão em falta.
+            
+            Grandes cidades e acidentes geográficos
+            •	Tralion
+            •	Tria
+            •	Fountain of Shara
+          </Descricao>
+          <ID>Cat3_10</ID>
+          <ImageUrl>Assets/games/Provincias/SulShara/essenia.jpg</ImageUrl>
+          <Nome>Essenia</Nome>
+          <SubTitulo>Província de Essenia</SubTitulo>
+          <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+          <Valor>Continente :  Sul de Shara</Valor>
+        </Item>
+  
+  
+    <Item>
+          <Descricao>
+           Westonia
+           
+           Westonia é uma das províncias do continente sul do Shara 
+
+          História
+          
+          Westonia é famosa por suas legal, beleza austera e para os seus cacos sobrenaturais. Colonos Hardy de todo o mundo viajaram para Westonia para esculpir a sua fortuna de seus picos gelados. Pairando sobre a província, com o nome original perdido para as idades, é a Cidadela de Torment, um antigo castelo invadida por horrores indizíveis.
+          Westonia é o lar de sirenes e wendigos cristalinas, juntamente com grupos errantes de mercenários Junaidar eo gigante estranho ou dracoloth. Os wendigos guardar o Santuário Azurice, um campo particularmente rica de Eldritch cacos, onde a batalha contra qualquer um que tenta levar seus cristais. Como os fragmentos são úteis para a defesa mágica, como as que protegem Allemantheia, a Federação Valkyon quer os cacos. Se a federação não pode negociar por eles, eles podem muito bem lutar por eles.
+         
+          Grandes cidades e acidentes geográficos
+          •	Acarum
+          •	Bleakrock
+          •	Citadel of Torment
+          •	Azurice Shrine
+          •	The Maelstrom
+
+          </Descricao>
+          <ID>Cat3_11</ID>
+          <ImageUrl>Assets/games/Provincias/SulShara/westonia.jpg</ImageUrl>
+          <Nome>Westonia</Nome>
+          <SubTitulo>Província de Westonia</SubTitulo>
+          <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+          <Valor>Continente :  Sul de Shara</Valor>
+        </Item>
+  
+    
+    <Item>
+          <Descricao>
+          Val Palrada  
+            
+          Val Palrada é uma das províncias do continente  sul do Shara.
+
+          História
+          Situado entre duas regiões selvagens, Frontera é o coração do Val Palrada. Assentados e agricultores vieram para Val Palrada tentar domar a terra fecunda, mas encontraram-se presos entre beligerantes tribos de orcans, as catacumbas escuras Arachnaea, e do antigo templo de Dagon, onde nagas lutar para encontrar algum meio de restaurar a Dagon para o mundo .
+          Pior ainda são as forças do Selvaras Legião, composta por deva mercenários, eo estranho surto que é impulsionado inúmeros moradores louco e torceu as construções próximas. Ainda assim, se alguém pode expulsar as criaturas mutantes e Selvaras intrusos, então cheias colinas e vales da Val Palrada pode ser a cornucópia que o sul Shara precisa.
+         
+          Grandes cidades e acidentes geográficos
+          •	Frontera
+          •	Arachnea
+          •	Temple of Dagon
+
+          </Descricao>
+          <ID>Cat3_11</ID>
+          <ImageUrl>Assets/games/Provincias/SulShara/val-palrada.jpg</ImageUrl>
+          <Nome>Val Palrada</Nome>
+          <SubTitulo>Província de Val Palrada</SubTitulo>
+          <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+          <Valor>Continente :  Sul de Shara</Valor>
+        </Item>
+
+       <Item>
+          <Descricao>
+          Val Elenium
+
+          Val Elenium é uma das províncias do continente  sul do Shara. 
+          
+          História
+          
+          Os desertos áridos de Val Elenium casa antiga, terríveis segredos.Empires levantou-se e caiu sobre estas areias. Relíquias maciços marcar a passagem dos gigantes, enquanto as ruínas do Trovão Segure dar os restos de príon espero que um dia poderia recuperar suas antigas glórias. Para a federação colonos, a natureza dura do Val Elenium é um ponto de orgulho. Quem pode fazer a sua fortuna neste cenário sombrio tem mais do que provado a sua coragem.
+          Os colonos kulkaris batalha, arachnens, e príons como eles lutam para proteger a riqueza da região e desvendar os mistérios sob suas areias.Nem todo mundo sobrevive, no entanto. Thulsa e Killian tanto manter forças em Val Elenium, em busca de uma relíquia ou poder perdido fonte e que não são conhecidos por sua hospitalidade.
+          
+          Grandes cidades e acidentes geográficos
+          •	Elenea
+          •	Doomcrypt
+          •	Blood Valley
+          •	Thunder Hold
+
+
+
+          </Descricao>
+          <ID>Cat3_11</ID>
+          <ImageUrl>Assets/games/Provincias/SulShara/Val Elenium.jpg</ImageUrl>
+          <Nome>Val Elenium</Nome>
+          <SubTitulo>Província de Val Elenium</SubTitulo>
+          <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+          <Valor>Continente :  Sul de Shara</Valor>
+        </Item>
+    
+    <Item>
+          <Descricao>
+          
+          Distrito  Veritas 
+
+          Distrito  Veritas é uma das províncias do continente  sul do Shara.  
+          
+          História
+          
+          O Distrito Veritas é o lar de inúmeras belezas naturais preservadas por Balder e Seren durante a Era dos Deuses. Originalmente criado por Balder para compartilhar com Seren, tornou-se um santuário do conhecimento, bem como a natureza. Numerosos preguiças e mandris vagavam pelas veredas verdejantes e um arquivo antigo armazenado inúmeros segredos. Vigiado por um exército de golems, o refúgio estava inacessível por muitos anos após a morte de Balder.
+          Inexplicavelmente, os golems recentemente deixou de lado para permitir que os recém-chegados para o refúgio. Agentes do Mysterium veio para estudar os jardins e maravilhas do templo de Balder, enquanto o Legacy Hyderad, uma facção dedicada à preservação do mundo natural, veio para ajudar a preservá-la.
+          
+          Grandes cidades e acidentes geográficos
+          •	Bastion
+          •	Seren's Garden
+          •	Seren's Lake
+          •	Lok's Spear
+          </Descricao>
+          <ID>Cat3_11</ID>
+          <ImageUrl>Assets/games/Provincias/SulShara/Veritas Distrito.jpg</ImageUrl>
+          <Nome>Distrito  Veritas </Nome>
+          <SubTitulo>Província de Distrito  Veritas </SubTitulo>
+          <Uri>http://tera.wikia.com/wiki/Provinces</Uri>
+          <Valor>Continente :  Sul de Shara</Valor>
+        </Item>
+
+
+
+
+
+
+</Items>
   <Nome>Mundo do Tera</Nome>
   <SubTitulo></SubTitulo>
 </Categoria>

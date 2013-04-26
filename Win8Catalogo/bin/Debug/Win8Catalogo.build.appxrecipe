@@ -77,6 +77,24 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Popori_Trans.png">
       <PackagePath>Assets\games\intens\Popori_Trans.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Arcadia_Province.png">
+      <PackagePath>Assets\games\Provincias\Arcadia_Province.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Island_of_Dawn_Zone.png">
+      <PackagePath>Assets\games\Provincias\Island_of_Dawn_Zone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Ostgarath_Province.png">
+      <PackagePath>Assets\games\Provincias\Ostgarath_Province.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Poporia_Province.png">
+      <PackagePath>Assets\games\Provincias\Poporia_Province.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulArun\Island of Dawn.png">
+      <PackagePath>Assets\games\Provincias\SulArun\Island of Dawn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Val_Aureum_Province.png">
+      <PackagePath>Assets\games\Provincias\Val_Aureum_Province.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
     </AppxPackagedFile>
@@ -135,8 +153,59 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\Categoria1.jpg">
       <PackagePath>Assets\games\Categoria\Categoria1.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\TERA-Races-All-Seven.jpg">
+      <PackagePath>Assets\games\Categoria\TERA-Races-All-Seven.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\world_infomap.jpg">
+      <PackagePath>Assets\games\Categoria\world_infomap.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\principal\automodelo-empresa.jpg">
       <PackagePath>Assets\games\principal\automodelo-empresa.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\NorteShara\Helkan Distrito.jpg">
+      <PackagePath>Assets\games\Provincias\NorteShara\Helkan Distrito.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\NorteShara\Lorcada.jpg">
+      <PackagePath>Assets\games\Provincias\NorteShara\Lorcada.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\NorteShara\Sylvanoth.jpg">
+      <PackagePath>Assets\games\Provincias\NorteShara\Sylvanoth.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\NorteShara\Val Kaeli.jpg">
+      <PackagePath>Assets\games\Provincias\NorteShara\Val Kaeli.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\NorteShara\Val Tirkai.jpg">
+      <PackagePath>Assets\games\Provincias\NorteShara\Val Tirkai.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulArun\arcadia.jpg">
+      <PackagePath>Assets\games\Provincias\SulArun\arcadia.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulArun\Ostgarath.jpg">
+      <PackagePath>Assets\games\Provincias\SulArun\Ostgarath.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulArun\poporia.jpg">
+      <PackagePath>Assets\games\Provincias\SulArun\poporia.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulArun\Val Aureum.jpg">
+      <PackagePath>Assets\games\Provincias\SulArun\Val Aureum.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulShara\essenia.jpg">
+      <PackagePath>Assets\games\Provincias\SulShara\essenia.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulShara\Val Elenium.jpg">
+      <PackagePath>Assets\games\Provincias\SulShara\Val Elenium.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulShara\val-palrada.jpg">
+      <PackagePath>Assets\games\Provincias\SulShara\val-palrada.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulShara\Veritas Distrito.jpg">
+      <PackagePath>Assets\games\Provincias\SulShara\Veritas Distrito.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulShara\westonia.jpg">
+      <PackagePath>Assets\games\Provincias\SulShara\westonia.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Sylvanoth_Concept.jpg">
+      <PackagePath>Assets\games\Provincias\Sylvanoth_Concept.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\Item1.jpg">
       <PackagePath>Assets\Items\Categoria1\Item1.jpg</PackagePath>

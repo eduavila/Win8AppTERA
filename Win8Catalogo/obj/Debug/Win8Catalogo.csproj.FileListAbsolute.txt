@@ -125,11 +125,11 @@ C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\resource
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\LanguageQualifiers.txt
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\ProjectArchitectures.txt
-C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\priconfig.xml.intermediate
-C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\layout.resfiles.intermediate
-C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\resources.resfiles.intermediate
-C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles.intermediate
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppGuiaTera.exe
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppGuiaTera.pdb
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\AppGuiaTera.exe
 C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\AppGuiaTera.pdb
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\priconfig.xml.intermediate
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\layout.resfiles.intermediate
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\resources.resfiles.intermediate
+C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\obj\Debug\pri.resfiles.intermediate

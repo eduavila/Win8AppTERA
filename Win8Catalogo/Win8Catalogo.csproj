@@ -170,6 +170,8 @@
     <Content Include="Assets\Empresa\Empresa.jpg" />
     <Content Include="Assets\games\Categoria\Categora1-teste..jpg" />
     <Content Include="Assets\games\Categoria\Categoria1.jpg" />
+    <Content Include="Assets\games\Categoria\TERA-Races-All-Seven.jpg" />
+    <Content Include="Assets\games\Categoria\world_infomap.jpg" />
     <Content Include="Assets\games\Classes\Archer_Trans.png" />
     <Content Include="Assets\games\Classes\Berserker_Trans.png" />
     <Content Include="Assets\games\Classes\Lancer_Trans.png" />
@@ -186,6 +188,27 @@
     <Content Include="Assets\games\intens\Human_Trans.png" />
     <Content Include="Assets\games\intens\Popori_Trans.png" />
     <Content Include="Assets\games\principal\automodelo-empresa.jpg" />
+    <Content Include="Assets\games\Provincias\Arcadia_Province.png" />
+    <Content Include="Assets\games\Provincias\Island_of_Dawn_Zone.png" />
+    <Content Include="Assets\games\Provincias\NorteShara\Helkan Distrito.jpg" />
+    <Content Include="Assets\games\Provincias\NorteShara\Lorcada.jpg" />
+    <Content Include="Assets\games\Provincias\NorteShara\Sylvanoth.jpg" />
+    <Content Include="Assets\games\Provincias\NorteShara\Val Kaeli.jpg" />
+    <Content Include="Assets\games\Provincias\NorteShara\Val Tirkai.jpg" />
+    <Content Include="Assets\games\Provincias\Ostgarath_Province.png" />
+    <Content Include="Assets\games\Provincias\Poporia_Province.png" />
+    <Content Include="Assets\games\Provincias\SulArun\arcadia.jpg" />
+    <Content Include="Assets\games\Provincias\SulArun\Island of Dawn.png" />
+    <Content Include="Assets\games\Provincias\SulArun\Ostgarath.jpg" />
+    <Content Include="Assets\games\Provincias\SulArun\poporia.jpg" />
+    <Content Include="Assets\games\Provincias\SulArun\Val Aureum.jpg" />
+    <Content Include="Assets\games\Provincias\SulShara\essenia.jpg" />
+    <Content Include="Assets\games\Provincias\SulShara\Val Elenium.jpg" />
+    <Content Include="Assets\games\Provincias\SulShara\val-palrada.jpg" />
+    <Content Include="Assets\games\Provincias\SulShara\Veritas Distrito.jpg" />
+    <Content Include="Assets\games\Provincias\SulShara\westonia.jpg" />
+    <Content Include="Assets\games\Provincias\Sylvanoth_Concept.jpg" />
+    <Content Include="Assets\games\Provincias\Val_Aureum_Province.png" />
     <Content Include="Assets\Items\Categoria1\Item1.jpg" />
     <Content Include="Assets\Items\Categoria1\item2.jpg" />
     <Content Include="Assets\Items\Categoria1\item3.jpg" />
@@ -235,10 +258,16 @@
     </Page>
     <Content Include="Assets\wallpaper-1967243.png" />
     <Content Include="Assets\WideLogo.png" />
-    <Content Include="Catalogo\Data\Categorias\categoria_3.xml" />
+    <Content Include="Catalogo\Data\Categorias\categoria_3.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Common\ReadMe.txt" />
-    <Content Include="Catalogo\Data\Categorias\categoria_1.xml" />
-    <Content Include="Catalogo\Data\Categorias\categoria_2.xml" />
+    <Content Include="Catalogo\Data\Categorias\categoria_1.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Catalogo\Data\Categorias\categoria_2.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Catalogo\Data\Empresa\Empresa.xml" />
   </ItemGroup>
   <ItemGroup>

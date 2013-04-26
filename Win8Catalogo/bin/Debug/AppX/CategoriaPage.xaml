@@ -68,9 +68,9 @@
                                            Grid.Row="1">
 
             <GridView.Header>
-                <StackPanel Width="480" Margin="0,4,14,0" Visibility="Visible">
-                    <Image Source="{Binding ImageUrl}" Height="400" Margin="0,0,18,20" Stretch="Fill" AutomationProperties.Name="{Binding Nome}"/>
-                    <TextBlock Text="{Binding Descricao}" Margin="0,0,18,0" Style="{StaticResource BodyTextStyle}"/>
+                <StackPanel Width="480" Visibility="Visible" Height="557">
+                    <Image Source="{Binding ImageUrl}" Height="373" Margin="0,0,10,20" Stretch="Fill" AutomationProperties.Name="{Binding Nome}"/>
+                    <TextBlock Text="{Binding Descricao}" Margin="0,0,18,0"  Style="{StaticResource BodyTextStyle}" Height="171"/>
                 </StackPanel>
             </GridView.Header>
             <GridView.ItemContainerStyle>
@@ -98,7 +98,7 @@
 
             <ListView.Header>
                 <StackPanel x:Name="stackPanel">
-                    <Image Source="{Binding ImageUrl}" Margin="10,0,18,0" MaxHeight="160" Stretch="Fill" AutomationProperties.Name="{Binding Nome}"/>
+                    <Image Source="{Binding ImageUrl}" Margin="10,0,18,0" MaxHeight="160" Stretch="UniformToFill" AutomationProperties.Name="{Binding Nome}"/>
                     <TextBlock Margin="10,20,18,30" Text="{Binding Descricao}" Style="{StaticResource BodyTextStyle}"/>
                 </StackPanel>
             </ListView.Header>

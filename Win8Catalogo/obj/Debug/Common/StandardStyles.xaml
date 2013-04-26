@@ -1659,7 +1659,7 @@
     <DataTemplate x:Key="Standard250x250ItemTemplate">
 	 <Grid HorizontalAlignment="Left" Width="250" Height="247">
             <Border Background="#003D3D3D">
-                <Image Source="{Binding ImageUrl, Converter={StaticResource StringToImageConverter}}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Nome}"/>
+                <Image Source="{Binding ImageUrl, Converter={StaticResource StringToImageConverter}}" Stretch="Fill" AutomationProperties.Name="{Binding Nome}"/>
             </Border>
             <StackPanel VerticalAlignment="Bottom" Background="#EA1E2324" Height="60" Margin="0,0,0,26">
                 <TextBlock Text="{Binding Nome}" Margin="10,7,10,0" FontSize="22.667" FontFamily="Segoe UI"/>
@@ -1676,7 +1676,7 @@
 	 <DataTemplate x:Key="GroupItemTemplate">
         <Grid HorizontalAlignment="Left" Width="339" Height="369">
             <Border Background="#003D3D3D">
-                <Image Source="{Binding ImageUrl}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}"/>
+                <Image Source="{Binding ImageUrl}" Stretch="Fill" AutomationProperties.Name="{Binding Title}"/>
             </Border>
             <Grid VerticalAlignment="Bottom" Background="#EA1E2324" Height="65" Margin="0,0,0,26">
             	<StackPanel Orientation="Vertical" Margin="10,0,0,5" HorizontalAlignment="Left" VerticalAlignment="Center">
@@ -1704,7 +1704,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Border Background="{StaticResource ListViewItemPlaceholderBackgroundThemeBrush}" Width="60" Height="60">
-                <Image Source="{Binding ImageUrl}" Stretch="UniformToFill"/>
+                <Image Source="{Binding ImageUrl}" Stretch="Fill"/>
             </Border>
             <StackPanel Grid.Column="1" Margin="10,0,0,0">
                 <TextBlock Text="{Binding Nome}" Style="{StaticResource ItemTextStyle}" MaxHeight="40"/>
@@ -1721,7 +1721,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Border Background="{StaticResource ListViewItemPlaceholderBackgroundThemeBrush}" Margin="0,0,0,10" Width="40" Height="40">
-                <Image Source="{Binding Image}" Stretch="UniformToFill"/>
+                <Image Source="{Binding Image}" Stretch="Fill"/>
             </Border>
             <StackPanel Grid.Column="1" Margin="10,-10,0,0">
                 <TextBlock Text="{Binding Title}" Style="{StaticResource BodyTextStyle}" TextWrapping="NoWrap"/>
@@ -1739,7 +1739,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Border Background="{StaticResource ListViewItemPlaceholderBackgroundThemeBrush}" Margin="0,0,0,10" Width="40" Height="40">
-                <Image Source="{Binding Image}" Stretch="UniformToFill"/>
+                <Image Source="{Binding Image}" Stretch="Fill"/>
             </Border>
             <StackPanel Grid.Column="1" Margin="10,-10,0,0">
                 <TextBlock Text="{Binding Title}" Style="{StaticResource BodyTextStyle}" TextWrapping="NoWrap"/>
@@ -1796,7 +1796,7 @@
                     Height="130"
                     HorizontalAlignment="Center"
                     VerticalAlignment="Center"
-                    Stretch="Uniform"/>
+                    Stretch="Fill"/>
             </Grid>
         </Grid>
     </DataTemplate>
