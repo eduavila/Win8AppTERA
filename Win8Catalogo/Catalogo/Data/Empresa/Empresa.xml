@@ -19,24 +19,19 @@
     O aplicativo faz uso das funcionalidades de compartilhamento (Share) do Windows 8, assim como a funcionalidade de busca (Search) também do Windows 8.
   </SettingsPolitica>
   <SettingsSobre>
-   Essa App e uma pequena guia para quem esta jogando ou quem interessa na história de cada personagem do jogo TERA:RISING.
+   Essa App e uma pequena guia para quem esta jogando ou quem interessa na história de cada personagem do jogo TERA Online.
   </SettingsSobre>  
   <ShareTexto>
-   TERA:Rising é um jogo de MMO onde seu diferenciado dos outro MMO é a jogabilidade podendo controlar por joystick ou por teclado e mouse em um jogo de ação de belos gráficos mas também um mundo fantástico mundo com milhares de missões. Podendo escolhe entre sete personagens diferente e oito classes. E muitas Batalhas épicas.
-Explore um mundo cheio de recursos visuais de tirar o fôlego alimentado por Unreal Engine 3.
-   
-    #URL#
+   TERA Online é um jogo de MMO onde seu diferenciado dos outro MMO é a jogabilidade podendo controlar por joystick ou por teclado e mouse em um jogo de ação de belos gráficos.
+   Explore um mundo cheio de recursos visuais de tirar o fôlego alimentado por Unreal Engine 3.
+ 
   </ShareTexto>
-  <Sobre>Este Aplicativo e uma pequena guia para quem esta jogando ou quem interessa na história de cada personagem do jogo TERA:RISING.
-  
-TERA:Rising é um jogo de MMO onde seu diferenciado dos outro MMO é a jogabilidade podendo controlar por joystick ou por teclado e mouse em um jogo de ação de belos gráficos mas também um mundo fantástico mundo com milhares de missões. Podendo escolhe entre sete personagens diferente e oito classes. E muitas Batalhas épicas.
-Explore um mundo cheio de recursos visuais de tirar o fôlego alimentado por Unreal Engine 3.
+  <Sobre> 
+      TERA Online é um jogo de MMO onde seu diferenciado dos outro MMO é a jogabilidade podendo controlar por joystick ou por teclado e mouse em um jogo de ação de belos gráficos mas também um mundo fantástico mundo com milhares de missões. Podendo escolhe entre sete personagens diferente e oito classes. E muitas Batalhas épicas.
+      Explore um mundo cheio de recursos visuais de tirar o fôlego alimentado por Unreal Engine 3.
 </Sobre>
   <Telefones>
-    <Telefone>
-      <Numero>(11) 99999-99999</Numero>
-      <Tipo>Comercial</Tipo>
-    </Telefone>
+    
   </Telefones>
   <Website>http://www.tera-online.com</Website>
   

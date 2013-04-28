@@ -53,7 +53,7 @@ namespace Win8Catalogo
 
             EmpresaNome.Text = Win8CatalogApplication.Instance.Empresa.Nome;
             EmpresaDescricao.Text = Win8CatalogApplication.Instance.Empresa.Sobre;
-            EmpresaRazao.Text = Win8CatalogApplication.Instance.Empresa.RazaoSocial;
+            //EmpresaRazao.Text = Win8CatalogApplication.Instance.Empresa.RazaoSocial;
             ImgEmpresa.Source = new BitmapImage(new Uri(new Uri("ms-appx:///"), Win8CatalogApplication.Instance.Empresa.ImageUrl));
 
         }

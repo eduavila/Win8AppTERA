@@ -24,7 +24,7 @@
     <Application Id="App" Executable="AppGuiaTera.exe" EntryPoint="Win8Catalogo.App">
       <VisualElements DisplayName="GuiaTeraOnline" Logo="Assets\SmallLogo.png" SmallLogo="Assets\30pxLogo.png" Description="GuiaTeraOnline" ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" WideLogo="Assets\WideLogo.png" ShortName="Win8Catalogo" />
-        <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#3e4849" />
+        <SplashScreen Image="Assets\games\SplashScreen.jpg" BackgroundColor="#3e4849" />
       </VisualElements>
       <Extensions>
         <Extension Category="windows.search" />

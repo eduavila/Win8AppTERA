@@ -102,8 +102,8 @@
                     <ColumnDefinition Width="53*"/>
                 </Grid.ColumnDefinitions>
                 <Grid x:Name="grdMainImage">
-                    <Image Name="ImgEmpresa" Source="Assets/HubPage/HubPageMainImage.png" Stretch="Fill" Margin="0,0,-410,0" Height="768" VerticalAlignment="Top" />
-                    <Grid HorizontalAlignment="Left" Height="249" VerticalAlignment="Bottom" Width="445" Margin="0,0,10,410" Background="#EA1E2324">
+                    <Image Name="ImgEmpresa" Source="Assets/HubPage/HubPageMainImage.png" Stretch="Fill" Margin="0,0,-410,0" />
+                    <Grid HorizontalAlignment="Left" Width="445" Margin="0,109,0,0" Background="#EA1E2324" Height="313" VerticalAlignment="Top">
                         <Grid.RowDefinitions>
                             <RowDefinition Height="80" x:Name="headerRow"/>
                             <RowDefinition Height="*"/>
@@ -111,13 +111,16 @@
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="455"/>
                         </Grid.ColumnDefinitions>
+
                         <StackPanel Margin="15,10,0,10" Grid.Row="0">
-                            <TextBlock Name="EmpresaNome" TextWrapping="Wrap" Text="Top MMO / RPG" FontFamily="Segoe UI" FontSize="24" FontWeight="Bold"/>
-                            <StackPanel Orientation="Horizontal">
-                                <TextBlock TextWrapping="Wrap" Name="EmpresaRazao" Text="" FontFamily="Segoe UI" FontSize="16"/>
-                            </StackPanel>
+
+
+
+
+                            <TextBlock x:Name="EmpresaNome" TextWrapping="Wrap" Text="Top MMO / RPG" FontFamily="Segoe UI" FontSize="24" FontWeight="Bold"/>
+
                         </StackPanel>
-                        <StackPanel Margin="15,10,0,10" Grid.Row="1" Width="430" >
+                        <StackPanel Margin="20,10,5,-50" Grid.Row="1" Width="430" >
                             <TextBlock  Name="EmpresaDescricao" TextWrapping="Wrap" Text="Sobre" FontFamily="Segoe UI" FontSize="16" />
                         </StackPanel>
                     </Grid>

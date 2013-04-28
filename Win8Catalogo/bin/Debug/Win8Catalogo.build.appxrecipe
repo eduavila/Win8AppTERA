@@ -98,12 +98,6 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Logo.png">
-      <PackagePath>Assets\Logo.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Logo_old.png">
-      <PackagePath>Assets\Logo_old.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\MediumGray.png">
       <PackagePath>Assets\MediumGray.png</PackagePath>
     </AppxPackagedFile>
@@ -113,21 +107,20 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SplashScreenTera.png">
+      <PackagePath>Assets\SplashScreenTera.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\wallpaper-1967243.png">
-      <PackagePath>Assets\wallpaper-1967243.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\WideLogo.png">
       <PackagePath>Assets\WideLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\automodelo-empresa.jpg">
-      <PackagePath>Assets\automodelo-empresa.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\BigLiveTile1.jpg">
       <PackagePath>Assets\BigLiveTile1.jpg</PackagePath>
@@ -141,12 +134,6 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Categoria\Categoria2.jpg">
       <PackagePath>Assets\Categoria\Categoria2.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Empresa\automodelo-empresa.jpg">
-      <PackagePath>Assets\Empresa\automodelo-empresa.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Empresa\Empresa.jpg">
-      <PackagePath>Assets\Empresa\Empresa.jpg</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\Categora1-teste..jpg">
       <PackagePath>Assets\games\Categoria\Categora1-teste..jpg</PackagePath>
     </AppxPackagedFile>
@@ -158,6 +145,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\world_infomap.jpg">
       <PackagePath>Assets\games\Categoria\world_infomap.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\logo\TERA_logo.jpg">
+      <PackagePath>Assets\games\logo\TERA_logo.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\principal\automodelo-empresa.jpg">
       <PackagePath>Assets\games\principal\automodelo-empresa.jpg</PackagePath>
@@ -207,38 +197,30 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Sylvanoth_Concept.jpg">
       <PackagePath>Assets\games\Provincias\Sylvanoth_Concept.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\Item1.jpg">
-      <PackagePath>Assets\Items\Categoria1\Item1.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\SplashScreen.scale-100.jpg">
+      <PackagePath>Assets\games\SplashScreen.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\item2.jpg">
-      <PackagePath>Assets\Items\Categoria1\item2.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\TERA_Wallpaper_76_ %281%29.jpg">
+      <PackagePath>Assets\games\TERA_Wallpaper_76_ %281%29.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\item3.jpg">
-      <PackagePath>Assets\Items\Categoria1\item3.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\item4.jpg">
-      <PackagePath>Assets\Items\Categoria1\item4.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria1\item5.jpg">
-      <PackagePath>Assets\Items\Categoria1\item5.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria2\Item1.jpg">
-      <PackagePath>Assets\Items\Categoria2\Item1.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria2\item2.jpg">
-      <PackagePath>Assets\Items\Categoria2\item2.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria2\item3.jpg">
-      <PackagePath>Assets\Items\Categoria2\item3.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\Items\Categoria2\item4.jpg">
-      <PackagePath>Assets\Items\Categoria2\item4.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\TERA_Wallpaper_76_ %281%29.scale-180.jpg">
+      <PackagePath>Assets\games\TERA_Wallpaper_76_ %281%29.scale-180.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SmallLiveTile1.jpg">
       <PackagePath>Assets\SmallLiveTile1.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SmallLiveTile2.jpg">
       <PackagePath>Assets\SmallLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SplashScreen.scale-180.jpg">
+      <PackagePath>Assets\SplashScreen.scale-180.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\TERA_Wallpaper_76_ %281%29.jpg">
+      <PackagePath>Assets\TERA_Wallpaper_76_ %281%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\logo\TERA_logo.tif">
+      <PackagePath>Assets\games\logo\TERA_logo.tif</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Categorias\categoria_3.xml">
       <PackagePath>Catalogo\Data\Categorias\categoria_3.xml</PackagePath>
