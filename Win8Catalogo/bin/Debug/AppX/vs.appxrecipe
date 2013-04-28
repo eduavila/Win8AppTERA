@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-28T03:43:02.647</Modified>
+      <Modified>2013-04-28T04:15:41.651</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppGuiaTera.exe">
       <PackagePath>AppGuiaTera.exe</PackagePath>
-      <Modified>2013-04-28T03:48:44.477</Modified>
+      <Modified>2013-04-28T04:15:40.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\AppGuiaTera.pdb">
       <PackagePath>AppGuiaTera.pdb</PackagePath>
-      <Modified>2013-04-28T03:48:44.446</Modified>
+      <Modified>2013-04-28T04:15:40.963</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\30pxLogo.png">
       <PackagePath>Assets\30pxLogo.png</PackagePath>
@@ -44,90 +44,6 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\DarkGray.png">
       <PackagePath>Assets\DarkGray.png</PackagePath>
       <Modified>2013-04-25T15:21:34.316</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Archer_Trans.png">
-      <PackagePath>Assets\games\Classes\Archer_Trans.png</PackagePath>
-      <Modified>2013-04-26T01:37:50.170</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Berserker_Trans.png">
-      <PackagePath>Assets\games\Classes\Berserker_Trans.png</PackagePath>
-      <Modified>2013-04-26T02:32:06.449</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Lancer_Trans.png">
-      <PackagePath>Assets\games\Classes\Lancer_Trans.png</PackagePath>
-      <Modified>2013-04-26T02:33:33.355</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Mystic_Trans.png">
-      <PackagePath>Assets\games\Classes\Mystic_Trans.png</PackagePath>
-      <Modified>2013-04-26T02:34:59.116</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Priest_Trans.png">
-      <PackagePath>Assets\games\Classes\Priest_Trans.png</PackagePath>
-      <Modified>2013-04-26T02:36:50.745</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Slayer_Trans.png">
-      <PackagePath>Assets\games\Classes\Slayer_Trans.png</PackagePath>
-      <Modified>2013-04-26T02:37:34.157</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Sorcerer_Trans.png">
-      <PackagePath>Assets\games\Classes\Sorcerer_Trans.png</PackagePath>
-      <Modified>2013-04-26T02:38:35.198</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Classes\Warrior_Trans.png">
-      <PackagePath>Assets\games\Classes\Warrior_Trans.png</PackagePath>
-      <Modified>2013-04-26T03:25:53.661</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Amani_Trans.png">
-      <PackagePath>Assets\games\intens\Amani_Trans.png</PackagePath>
-      <Modified>2013-04-25T21:50:33.050</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Baraka_Trans.png">
-      <PackagePath>Assets\games\intens\Baraka_Trans.png</PackagePath>
-      <Modified>2013-04-25T21:50:29.462</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Castanic_Trans.png">
-      <PackagePath>Assets\games\intens\Castanic_Trans.png</PackagePath>
-      <Modified>2013-04-25T21:50:13.526</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Elf_Trans.png">
-      <PackagePath>Assets\games\intens\Elf_Trans.png</PackagePath>
-      <Modified>2013-04-25T21:50:17.141</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Elin_Trans.png">
-      <PackagePath>Assets\games\intens\Elin_Trans.png</PackagePath>
-      <Modified>2013-04-25T21:50:24.061</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Human_Trans.png">
-      <PackagePath>Assets\games\intens\Human_Trans.png</PackagePath>
-      <Modified>2013-04-25T22:02:14.964</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\intens\Popori_Trans.png">
-      <PackagePath>Assets\games\intens\Popori_Trans.png</PackagePath>
-      <Modified>2013-04-25T22:02:41.630</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Arcadia_Province.png">
-      <PackagePath>Assets\games\Provincias\Arcadia_Province.png</PackagePath>
-      <Modified>2013-04-26T15:38:53.364</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Island_of_Dawn_Zone.png">
-      <PackagePath>Assets\games\Provincias\Island_of_Dawn_Zone.png</PackagePath>
-      <Modified>2013-04-26T15:16:37.340</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Ostgarath_Province.png">
-      <PackagePath>Assets\games\Provincias\Ostgarath_Province.png</PackagePath>
-      <Modified>2013-04-26T15:15:02.099</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Poporia_Province.png">
-      <PackagePath>Assets\games\Provincias\Poporia_Province.png</PackagePath>
-      <Modified>2013-04-26T15:15:54.617</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulArun\Island of Dawn.png">
-      <PackagePath>Assets\games\Provincias\SulArun\Island of Dawn.png</PackagePath>
-      <Modified>2013-04-26T20:42:17.937</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Val_Aureum_Province.png">
-      <PackagePath>Assets\games\Provincias\Val_Aureum_Province.png</PackagePath>
-      <Modified>2013-04-26T15:16:11.739</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
@@ -162,7 +78,7 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\WideLogo.png">
       <PackagePath>Assets\WideLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-25T15:21:34.829</Modified>
+      <Modified>2013-04-28T03:54:47.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\BigLiveTile1.jpg">
       <PackagePath>Assets\BigLiveTile1.jpg</PackagePath>
@@ -180,103 +96,6 @@
       <PackagePath>Assets\Categoria\Categoria2.jpg</PackagePath>
       <Modified>2013-04-25T15:21:34.995</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\Categora1-teste..jpg">
-      <PackagePath>Assets\games\Categoria\Categora1-teste..jpg</PackagePath>
-      <Modified>2013-04-25T20:40:58.277</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\Categoria1.jpg">
-      <PackagePath>Assets\games\Categoria\Categoria1.jpg</PackagePath>
-      <Modified>2013-04-25T20:38:41.039</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\TERA-Races-All-Seven.jpg">
-      <PackagePath>Assets\games\Categoria\TERA-Races-All-Seven.jpg</PackagePath>
-      <Modified>2013-04-26T03:56:28.803</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Categoria\world_infomap.jpg">
-      <PackagePath>Assets\games\Categoria\world_infomap.jpg</PackagePath>
-      <Modified>2013-04-26T04:36:14.487</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\logo\TERA_logo.jpg">
-      <PackagePath>Assets\games\logo\TERA_logo.jpg</PackagePath>
-      <Modified>2013-04-26T22:24:06.043</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\principal\automodelo-empresa.jpg">
-      <PackagePath>Assets\games\principal\automodelo-empresa.jpg</PackagePath>
-      <Modified>2013-04-25T17:25:07.502</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\NorteShara\Helkan Distrito.jpg">
-      <PackagePath>Assets\games\Provincias\NorteShara\Helkan Distrito.jpg</PackagePath>
-      <Modified>2013-04-26T20:34:13.539</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\NorteShara\Lorcada.jpg">
-      <PackagePath>Assets\games\Provincias\NorteShara\Lorcada.jpg</PackagePath>
-      <Modified>2013-04-26T20:32:51.356</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\NorteShara\Sylvanoth.jpg">
-      <PackagePath>Assets\games\Provincias\NorteShara\Sylvanoth.jpg</PackagePath>
-      <Modified>2013-04-26T20:30:30.567</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\NorteShara\Val Kaeli.jpg">
-      <PackagePath>Assets\games\Provincias\NorteShara\Val Kaeli.jpg</PackagePath>
-      <Modified>2013-04-26T20:35:24.762</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\NorteShara\Val Tirkai.jpg">
-      <PackagePath>Assets\games\Provincias\NorteShara\Val Tirkai.jpg</PackagePath>
-      <Modified>2013-04-26T20:33:53.372</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulArun\arcadia.jpg">
-      <PackagePath>Assets\games\Provincias\SulArun\arcadia.jpg</PackagePath>
-      <Modified>2013-04-26T20:44:19.772</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulArun\Ostgarath.jpg">
-      <PackagePath>Assets\games\Provincias\SulArun\Ostgarath.jpg</PackagePath>
-      <Modified>2013-04-26T20:47:20.818</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulArun\poporia.jpg">
-      <PackagePath>Assets\games\Provincias\SulArun\poporia.jpg</PackagePath>
-      <Modified>2013-04-26T20:46:16.425</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulArun\Val Aureum.jpg">
-      <PackagePath>Assets\games\Provincias\SulArun\Val Aureum.jpg</PackagePath>
-      <Modified>2013-04-26T20:46:02.629</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulShara\essenia.jpg">
-      <PackagePath>Assets\games\Provincias\SulShara\essenia.jpg</PackagePath>
-      <Modified>2013-04-26T20:17:46.348</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulShara\Val Elenium.jpg">
-      <PackagePath>Assets\games\Provincias\SulShara\Val Elenium.jpg</PackagePath>
-      <Modified>2013-04-26T20:28:12.311</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulShara\val-palrada.jpg">
-      <PackagePath>Assets\games\Provincias\SulShara\val-palrada.jpg</PackagePath>
-      <Modified>2013-04-26T20:27:47.077</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulShara\Veritas Distrito.jpg">
-      <PackagePath>Assets\games\Provincias\SulShara\Veritas Distrito.jpg</PackagePath>
-      <Modified>2013-04-26T20:29:26.439</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\SulShara\westonia.jpg">
-      <PackagePath>Assets\games\Provincias\SulShara\westonia.jpg</PackagePath>
-      <Modified>2013-04-26T20:27:08.963</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\Provincias\Sylvanoth_Concept.jpg">
-      <PackagePath>Assets\games\Provincias\Sylvanoth_Concept.jpg</PackagePath>
-      <Modified>2013-04-26T17:35:01.261</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\SplashScreen.scale-100.jpg">
-      <PackagePath>Assets\games\SplashScreen.scale-100.jpg</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-28T03:26:41.139</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\TERA_Wallpaper_76_ %281%29.jpg">
-      <PackagePath>Assets\games\TERA_Wallpaper_76_ %281%29.jpg</PackagePath>
-      <Modified>2013-04-27T19:11:19.645</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\TERA_Wallpaper_76_ %281%29.scale-180.jpg">
-      <PackagePath>Assets\games\TERA_Wallpaper_76_ %281%29.scale-180.jpg</PackagePath>
-      <Modified>2013-04-27T19:11:19.645</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SmallLiveTile1.jpg">
       <PackagePath>Assets\SmallLiveTile1.jpg</PackagePath>
       <Modified>2013-04-25T15:21:34.609</Modified>
@@ -288,14 +107,6 @@
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\SplashScreen.scale-180.jpg">
       <PackagePath>Assets\SplashScreen.scale-180.jpg</PackagePath>
       <Modified>2013-04-27T19:23:21.921</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\TERA_Wallpaper_76_ %281%29.jpg">
-      <PackagePath>Assets\TERA_Wallpaper_76_ %281%29.jpg</PackagePath>
-      <Modified>2013-04-25T16:57:13.716</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Assets\games\logo\TERA_logo.tif">
-      <PackagePath>Assets\games\logo\TERA_logo.tif</PackagePath>
-      <Modified>2013-04-26T17:20:20.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\Catalogo\Data\Categorias\categoria_3.xml">
       <PackagePath>Catalogo\Data\Categorias\categoria_3.xml</PackagePath>
@@ -327,7 +138,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\HomePage.xaml">
       <PackagePath>HomePage.xaml</PackagePath>
-      <Modified>2013-04-28T03:48:38.263</Modified>
+      <Modified>2013-04-28T03:50:44.759</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\ItemPage.xaml">
       <PackagePath>ItemPage.xaml</PackagePath>
@@ -355,7 +166,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eduardo\Documents\win8\app\Win8Catalogo\Win8Catalogo\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-04-28T03:24:37.806</Modified>
+      <Modified>2013-04-28T04:15:41.209</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

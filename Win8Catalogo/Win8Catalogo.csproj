@@ -166,52 +166,6 @@
     <Content Include="Assets\Categoria\Categoria1.jpg" />
     <Content Include="Assets\Categoria\Categoria2.jpg" />
     <Content Include="Assets\DarkGray.png" />
-    <Content Include="Assets\games\Categoria\Categora1-teste..jpg" />
-    <Content Include="Assets\games\Categoria\Categoria1.jpg" />
-    <Content Include="Assets\games\Categoria\TERA-Races-All-Seven.jpg" />
-    <Content Include="Assets\games\Categoria\world_infomap.jpg" />
-    <Content Include="Assets\games\Classes\Archer_Trans.png" />
-    <Content Include="Assets\games\Classes\Berserker_Trans.png" />
-    <Content Include="Assets\games\Classes\Lancer_Trans.png" />
-    <Content Include="Assets\games\Classes\Mystic_Trans.png" />
-    <Content Include="Assets\games\Classes\Priest_Trans.png" />
-    <Content Include="Assets\games\Classes\Slayer_Trans.png" />
-    <Content Include="Assets\games\Classes\Sorcerer_Trans.png" />
-    <Content Include="Assets\games\Classes\Warrior_Trans.png" />
-    <Content Include="Assets\games\intens\Amani_Trans.png" />
-    <Content Include="Assets\games\intens\Baraka_Trans.png" />
-    <Content Include="Assets\games\intens\Castanic_Trans.png" />
-    <Content Include="Assets\games\intens\Elf_Trans.png" />
-    <Content Include="Assets\games\intens\Elin_Trans.png" />
-    <Content Include="Assets\games\intens\Human_Trans.png" />
-    <Content Include="Assets\games\intens\Popori_Trans.png" />
-    <Content Include="Assets\games\logo\TERA_logo.jpg" />
-    <Content Include="Assets\games\logo\TERA_logo.tif" />
-    <Content Include="Assets\games\principal\automodelo-empresa.jpg" />
-    <Content Include="Assets\games\Provincias\Arcadia_Province.png" />
-    <Content Include="Assets\games\Provincias\Island_of_Dawn_Zone.png" />
-    <Content Include="Assets\games\Provincias\NorteShara\Helkan Distrito.jpg" />
-    <Content Include="Assets\games\Provincias\NorteShara\Lorcada.jpg" />
-    <Content Include="Assets\games\Provincias\NorteShara\Sylvanoth.jpg" />
-    <Content Include="Assets\games\Provincias\NorteShara\Val Kaeli.jpg" />
-    <Content Include="Assets\games\Provincias\NorteShara\Val Tirkai.jpg" />
-    <Content Include="Assets\games\Provincias\Ostgarath_Province.png" />
-    <Content Include="Assets\games\Provincias\Poporia_Province.png" />
-    <Content Include="Assets\games\Provincias\SulArun\arcadia.jpg" />
-    <Content Include="Assets\games\Provincias\SulArun\Island of Dawn.png" />
-    <Content Include="Assets\games\Provincias\SulArun\Ostgarath.jpg" />
-    <Content Include="Assets\games\Provincias\SulArun\poporia.jpg" />
-    <Content Include="Assets\games\Provincias\SulArun\Val Aureum.jpg" />
-    <Content Include="Assets\games\Provincias\SulShara\essenia.jpg" />
-    <Content Include="Assets\games\Provincias\SulShara\Val Elenium.jpg" />
-    <Content Include="Assets\games\Provincias\SulShara\val-palrada.jpg" />
-    <Content Include="Assets\games\Provincias\SulShara\Veritas Distrito.jpg" />
-    <Content Include="Assets\games\Provincias\SulShara\westonia.jpg" />
-    <Content Include="Assets\games\Provincias\Sylvanoth_Concept.jpg" />
-    <Content Include="Assets\games\Provincias\Val_Aureum_Province.png" />
-    <Content Include="Assets\games\SplashScreen.scale-100.jpg" />
-    <Content Include="Assets\games\TERA_Wallpaper_76_ %281%29.jpg" />
-    <Content Include="Assets\games\TERA_Wallpaper_76_ %281%29.scale-180.jpg" />
     <Content Include="Assets\LightGray.png" />
     <Content Include="Assets\MediumGray.png" />
     <Content Include="Assets\SmallLiveTile1.jpg" />
@@ -251,7 +205,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Content Include="Assets\TERA_Wallpaper_76_ %281%29.jpg" />
     <Content Include="Assets\WideLogo.png" />
     <Content Include="Catalogo\Data\Categorias\categoria_3.xml">
       <SubType>Designer</SubType>
